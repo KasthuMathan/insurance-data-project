@@ -1,0 +1,1339 @@
+age,age_group,gender,bmi,bmi_category,children,smoker,region,charges,charge_range
+19,18-25,Female,27.9,Overweight,0,Yes,South-West,16884.92,10K-20K
+18,18-25,Male,33.77,"Obese Class 1",1,No,South-East,1725.55,0-10K
+28,26-35,Male,33,"Obese Class 1",3,No,South-East,4449.46,0-10K
+33,26-35,Male,22.705,"Normal Weight",0,No,North-West,21984.47,20K-30K
+32,26-35,Male,28.88,Overweight,0,No,North-West,3866.86,0-10K
+31,26-35,Female,25.74,Overweight,0,No,South-East,3756.62,0-10K
+46,46-55,Female,33.44,"Obese Class 1",1,No,South-East,8240.59,0-10K
+37,36-45,Female,27.74,Overweight,3,No,North-West,7281.51,0-10K
+37,36-45,Male,29.83,Overweight,2,No,North-East,6406.41,0-10K
+60,55+,Female,25.84,Overweight,0,No,North-West,28923.14,20K-30K
+25,18-25,Male,26.22,Overweight,0,No,North-East,2721.32,0-10K
+62,55+,Female,26.29,Overweight,0,Yes,South-East,27808.73,20K-30K
+23,18-25,Male,34.4,"Obese Class 1",0,No,South-West,1826.84,0-10K
+56,55+,Female,39.82,"Obese Class 2",0,No,South-East,11090.72,10K-20K
+27,26-35,Male,42.13,"Obese Class 3",0,Yes,South-East,39611.76,30K-40K
+19,18-25,Male,24.6,"Normal Weight",1,No,South-West,1837.24,0-10K
+52,46-55,Female,30.78,"Obese Class 1",1,No,North-East,10797.34,10K-20K
+23,18-25,Male,23.845,"Normal Weight",0,No,North-East,2395.17,0-10K
+56,55+,Male,40.3,"Obese Class 3",0,No,South-West,10602.38,10K-20K
+30,26-35,Male,35.3,"Obese Class 2",0,Yes,South-West,36837.47,30K-40K
+60,55+,Female,36.005,"Obese Class 2",0,No,North-East,13228.85,10K-20K
+30,26-35,Female,32.4,"Obese Class 1",1,No,South-West,4149.74,0-10K
+18,18-25,Male,34.1,"Obese Class 1",0,No,South-East,1137.01,0-10K
+34,26-35,Female,31.92,"Obese Class 1",1,Yes,North-East,37701.88,30K-40K
+37,36-45,Male,28.025,Overweight,2,No,North-West,6203.9,0-10K
+59,55+,Female,27.72,Overweight,3,No,South-East,14001.13,10K-20K
+63,55+,Female,23.085,"Normal Weight",0,No,North-East,14451.84,10K-20K
+55,46-55,Female,32.775,"Obese Class 1",2,No,North-West,12268.63,10K-20K
+23,18-25,Male,17.385,Underweight,1,No,North-West,2775.19,0-10K
+31,26-35,Male,36.3,"Obese Class 2",2,Yes,South-West,38711,30K-40K
+22,18-25,Male,35.6,"Obese Class 2",0,Yes,South-West,35585.58,30K-40K
+18,18-25,Female,26.315,Overweight,0,No,North-East,2198.19,0-10K
+19,18-25,Female,28.6,Overweight,5,No,South-West,4687.8,0-10K
+63,55+,Male,28.31,Overweight,0,No,North-West,13770.1,10K-20K
+28,26-35,Male,36.4,"Obese Class 2",1,Yes,South-West,51194.56,50K+
+19,18-25,Male,20.425,"Normal Weight",0,No,North-West,1625.43,0-10K
+62,55+,Female,32.965,"Obese Class 1",3,No,North-West,15612.19,10K-20K
+26,26-35,Male,20.8,"Normal Weight",0,No,South-West,2302.3,0-10K
+35,26-35,Male,36.67,"Obese Class 2",1,Yes,North-East,39774.28,30K-40K
+60,55+,Male,39.9,"Obese Class 2",0,Yes,South-West,48173.36,40K-50K
+24,18-25,Female,26.6,Overweight,0,No,North-East,3046.06,0-10K
+31,26-35,Female,36.63,"Obese Class 2",2,No,South-East,4949.76,0-10K
+41,36-45,Male,21.78,"Normal Weight",1,No,South-East,6272.48,0-10K
+37,36-45,Female,30.8,"Obese Class 1",2,No,South-East,6313.76,0-10K
+38,36-45,Male,37.05,"Obese Class 2",1,No,North-East,6079.67,0-10K
+55,46-55,Male,37.3,"Obese Class 2",0,No,South-West,20630.28,20K-30K
+18,18-25,Female,38.665,"Obese Class 2",2,No,North-East,3393.36,0-10K
+28,26-35,Female,34.77,"Obese Class 1",0,No,North-West,3556.92,0-10K
+60,55+,Female,24.53,"Normal Weight",0,No,South-East,12629.9,10K-20K
+36,36-45,Male,35.2,"Obese Class 2",1,Yes,South-East,38709.18,30K-40K
+18,18-25,Female,35.625,"Obese Class 2",0,No,North-East,2211.13,0-10K
+21,18-25,Female,33.63,"Obese Class 1",2,No,North-West,3579.83,0-10K
+48,46-55,Male,28,Overweight,1,Yes,South-West,23568.27,20K-30K
+36,36-45,Male,34.43,"Obese Class 1",0,Yes,South-East,37742.58,30K-40K
+40,36-45,Female,28.69,Overweight,3,No,North-West,8059.68,0-10K
+58,55+,Male,36.955,"Obese Class 2",2,Yes,North-West,47496.49,40K-50K
+58,55+,Female,31.825,"Obese Class 1",2,No,North-East,13607.37,10K-20K
+18,18-25,Male,31.68,"Obese Class 1",2,Yes,South-East,34303.17,30K-40K
+53,46-55,Female,22.88,"Normal Weight",1,Yes,South-East,23244.79,20K-30K
+34,26-35,Female,37.335,"Obese Class 2",2,No,North-West,5989.52,0-10K
+43,36-45,Male,27.36,Overweight,3,No,North-East,8606.22,0-10K
+25,18-25,Male,33.66,"Obese Class 1",4,No,South-East,4504.66,0-10K
+64,55+,Male,24.7,"Normal Weight",1,No,North-West,30166.62,30K-40K
+28,26-35,Female,25.935,Overweight,1,No,North-West,4133.64,0-10K
+20,18-25,Female,22.42,"Normal Weight",0,Yes,North-West,14711.74,10K-20K
+19,18-25,Female,28.9,Overweight,0,No,South-West,1743.21,0-10K
+61,55+,Female,39.1,"Obese Class 2",2,No,South-West,14235.07,10K-20K
+40,36-45,Male,26.315,Overweight,1,No,North-West,6389.38,0-10K
+40,36-45,Female,36.19,"Obese Class 2",0,No,South-East,5920.1,0-10K
+28,26-35,Male,23.98,"Normal Weight",3,Yes,South-East,17663.14,10K-20K
+27,26-35,Female,24.75,"Normal Weight",0,Yes,South-East,16577.78,10K-20K
+31,26-35,Male,28.5,Overweight,5,No,North-East,6799.46,0-10K
+53,46-55,Female,28.1,Overweight,3,No,South-West,11741.73,10K-20K
+58,55+,Male,32.01,"Obese Class 1",1,No,South-East,11946.63,10K-20K
+44,36-45,Male,27.4,Overweight,2,No,South-West,7726.85,0-10K
+57,55+,Male,34.01,"Obese Class 1",0,No,North-West,11356.66,10K-20K
+29,26-35,Female,29.59,Overweight,1,No,South-East,3947.41,0-10K
+21,18-25,Male,35.53,"Obese Class 2",0,No,South-East,1532.47,0-10K
+22,18-25,Female,39.805,"Obese Class 2",0,No,North-East,2755.02,0-10K
+41,36-45,Female,32.965,"Obese Class 1",0,No,North-West,6571.02,0-10K
+31,26-35,Male,26.885,Overweight,1,No,North-East,4441.21,0-10K
+45,36-45,Female,38.285,"Obese Class 2",0,No,North-East,7935.29,0-10K
+22,18-25,Male,37.62,"Obese Class 2",1,Yes,South-East,37165.16,30K-40K
+48,46-55,Female,41.23,"Obese Class 3",4,No,North-West,11033.66,10K-20K
+37,36-45,Female,34.8,"Obese Class 1",2,Yes,South-West,39836.52,30K-40K
+45,36-45,Male,22.895,"Normal Weight",2,Yes,North-West,21098.55,20K-30K
+57,55+,Female,31.16,"Obese Class 1",0,Yes,North-West,43578.94,40K-50K
+56,55+,Female,27.2,Overweight,0,No,South-West,11073.18,10K-20K
+46,46-55,Female,27.74,Overweight,0,No,North-West,8026.67,0-10K
+55,46-55,Female,26.98,Overweight,0,No,North-West,11082.58,10K-20K
+21,18-25,Female,39.49,"Obese Class 2",0,No,South-East,2026.97,0-10K
+53,46-55,Female,24.795,"Normal Weight",1,No,North-West,10942.13,10K-20K
+59,55+,Male,29.83,Overweight,3,Yes,North-East,30184.94,30K-40K
+35,26-35,Male,34.77,"Obese Class 1",2,No,North-West,5729.01,0-10K
+64,55+,Female,31.3,"Obese Class 1",2,Yes,South-West,47291.06,40K-50K
+28,26-35,Female,37.62,"Obese Class 2",1,No,South-East,3766.88,0-10K
+54,46-55,Female,30.8,"Obese Class 1",3,No,South-West,12105.32,10K-20K
+55,46-55,Male,38.28,"Obese Class 2",0,No,South-East,10226.28,10K-20K
+56,55+,Male,19.95,"Normal Weight",0,Yes,North-East,22412.65,20K-30K
+38,36-45,Male,19.3,"Normal Weight",0,Yes,South-West,15820.7,10K-20K
+41,36-45,Female,31.6,"Obese Class 1",0,No,South-West,6186.13,0-10K
+30,26-35,Male,25.46,Overweight,0,No,North-East,3645.09,0-10K
+18,18-25,Female,30.115,"Obese Class 1",0,No,North-East,21344.85,20K-30K
+61,55+,Female,29.92,"Obese Class 3",3,Yes,South-East,30942.19,30K-40K
+34,26-35,Female,27.5,Overweight,1,No,South-West,5003.85,0-10K
+20,18-25,Male,28.025,Overweight,1,Yes,North-West,17560.38,10K-20K
+19,18-25,Female,28.4,Overweight,1,No,South-West,2331.52,0-10K
+26,26-35,Male,30.875,"Obese Class 1",2,No,North-West,3877.3,0-10K
+29,26-35,Male,27.94,Overweight,0,No,South-East,2867.12,0-10K
+63,55+,Male,35.09,"Obese Class 2",0,Yes,South-East,47055.53,40K-50K
+54,46-55,Male,33.63,"Obese Class 1",1,No,North-West,10825.25,10K-20K
+55,46-55,Female,29.7,Overweight,2,No,South-West,11881.36,10K-20K
+37,36-45,Male,30.8,"Obese Class 1",0,No,South-West,4646.76,0-10K
+21,18-25,Female,35.72,"Obese Class 2",0,No,North-West,2404.73,0-10K
+52,46-55,Male,32.205,"Obese Class 1",3,No,North-East,11488.32,10K-20K
+60,55+,Male,28.595,Overweight,0,No,North-East,30260,30K-40K
+58,55+,Male,49.06,"Obese Class 3",0,No,South-East,11381.33,10K-20K
+29,26-35,Female,27.94,Overweight,1,Yes,South-East,19107.78,10K-20K
+49,46-55,Female,27.17,Overweight,0,No,South-East,8601.33,0-10K
+37,36-45,Female,23.37,"Normal Weight",2,No,North-West,6686.43,0-10K
+44,36-45,Male,37.1,"Obese Class 2",2,No,South-West,7740.34,0-10K
+18,18-25,Male,23.75,"Normal Weight",0,No,North-East,1705.62,0-10K
+20,18-25,Female,28.975,Overweight,0,No,North-West,2257.48,0-10K
+44,36-45,Male,31.35,"Obese Class 1",1,Yes,North-East,39556.49,30K-40K
+47,46-55,Female,33.915,"Obese Class 1",3,No,North-West,10115.01,10K-20K
+26,26-35,Female,28.785,Overweight,0,No,North-East,3385.4,0-10K
+19,18-25,Female,28.3,Overweight,0,Yes,South-West,17081.08,10K-20K
+52,46-55,Female,37.4,"Obese Class 2",0,No,South-West,9634.54,0-10K
+32,26-35,Female,17.765,Underweight,2,Yes,North-West,32734.19,30K-40K
+38,36-45,Male,34.7,"Obese Class 1",2,No,South-West,6082.4,0-10K
+59,55+,Female,26.505,Overweight,0,No,North-East,12815.44,10K-20K
+61,55+,Female,22.04,"Normal Weight",0,No,North-East,13616.36,10K-20K
+53,46-55,Female,35.9,"Obese Class 2",2,No,South-West,11163.57,10K-20K
+19,18-25,Male,25.555,Overweight,0,No,North-West,1632.56,0-10K
+20,18-25,Female,28.785,Overweight,0,No,North-East,2457.21,0-10K
+22,18-25,Female,28.05,Overweight,0,No,South-East,2155.68,0-10K
+19,18-25,Male,34.1,"Obese Class 1",0,No,South-West,1261.44,0-10K
+22,18-25,Male,25.175,Overweight,0,No,North-West,2045.69,0-10K
+54,46-55,Female,31.9,"Obese Class 1",3,No,South-East,27322.73,20K-30K
+22,18-25,Female,36,"Obese Class 2",0,No,South-West,2166.73,0-10K
+34,26-35,Male,22.42,"Normal Weight",2,No,North-East,27375.9,20K-30K
+26,26-35,Male,32.49,"Obese Class 1",1,No,North-East,3490.55,0-10K
+34,26-35,Male,25.3,Overweight,2,Yes,South-East,18972.5,10K-20K
+29,26-35,Male,29.735,Overweight,2,No,North-West,18157.88,10K-20K
+30,26-35,Male,28.69,Overweight,3,Yes,North-West,20745.99,20K-30K
+29,26-35,Female,38.83,"Obese Class 2",3,No,South-East,5138.26,0-10K
+46,46-55,Male,30.495,"Obese Class 1",3,Yes,North-West,40720.55,40K-50K
+51,46-55,Female,37.73,"Obese Class 2",1,No,South-East,9877.61,0-10K
+53,46-55,Female,37.43,"Obese Class 2",1,No,North-West,10959.69,10K-20K
+19,18-25,Male,28.4,Overweight,1,No,South-West,1842.52,0-10K
+35,26-35,Male,24.13,"Normal Weight",1,No,North-West,5125.22,0-10K
+48,46-55,Male,29.7,Overweight,0,No,South-East,7789.64,0-10K
+32,26-35,Female,37.145,"Obese Class 2",3,No,North-East,6334.34,0-10K
+42,36-45,Female,23.37,"Normal Weight",0,Yes,North-East,19964.75,10K-20K
+40,36-45,Female,25.46,Overweight,1,No,North-East,7077.19,0-10K
+44,36-45,Male,39.52,"Obese Class 2",0,No,North-West,6948.7,0-10K
+48,46-55,Male,24.42,"Normal Weight",0,Yes,South-East,21223.68,20K-30K
+18,18-25,Male,25.175,Overweight,0,Yes,North-East,15518.18,10K-20K
+30,26-35,Male,35.53,"Obese Class 2",0,Yes,South-East,36950.26,30K-40K
+50,46-55,Female,27.83,Overweight,3,No,South-East,19749.38,10K-20K
+42,36-45,Female,26.6,Overweight,0,Yes,North-West,21348.71,20K-30K
+18,18-25,Female,36.85,"Obese Class 2",0,Yes,South-East,36149.48,30K-40K
+54,46-55,Male,39.6,"Obese Class 2",1,No,South-West,10450.55,10K-20K
+32,26-35,Female,29.8,Overweight,2,No,South-West,5152.13,0-10K
+37,36-45,Male,29.64,Overweight,0,No,North-West,5028.15,0-10K
+47,46-55,Male,28.215,Overweight,4,No,North-East,10407.09,10K-20K
+20,18-25,Female,37,"Obese Class 2",5,No,South-West,4830.63,0-10K
+32,26-35,Female,33.155,"Obese Class 1",3,No,North-West,6128.8,0-10K
+19,18-25,Female,31.825,"Obese Class 1",1,No,North-West,2719.28,0-10K
+27,26-35,Male,18.905,"Normal Weight",3,No,North-East,4827.9,0-10K
+63,55+,Male,41.47,"Obese Class 3",0,No,South-East,13405.39,10K-20K
+49,46-55,Male,30.3,"Obese Class 1",0,No,South-West,8116.68,0-10K
+18,18-25,Male,15.96,Underweight,0,No,North-East,1694.8,0-10K
+35,26-35,Female,34.8,"Obese Class 1",1,No,South-West,5246.05,0-10K
+24,18-25,Female,33.345,"Obese Class 1",0,No,North-West,2855.44,0-10K
+63,55+,Female,37.7,"Obese Class 2",0,Yes,South-West,48824.45,40K-50K
+38,36-45,Male,27.835,Overweight,2,No,North-West,6455.86,0-10K
+54,46-55,Male,29.2,Overweight,1,No,South-West,10436.1,10K-20K
+46,46-55,Female,28.9,Overweight,2,No,South-West,8823.28,0-10K
+41,36-45,Female,33.155,"Obese Class 1",3,No,North-East,8538.29,0-10K
+58,55+,Male,28.595,Overweight,0,No,North-West,11735.88,10K-20K
+18,18-25,Female,38.28,"Obese Class 2",0,No,South-East,1631.82,0-10K
+22,18-25,Male,19.95,"Normal Weight",3,No,North-East,4005.42,0-10K
+44,36-45,Female,26.41,Overweight,0,No,North-West,7419.48,0-10K
+44,36-45,Male,30.69,"Obese Class 1",2,No,South-East,7731.43,0-10K
+36,36-45,Male,41.895,"Obese Class 3",3,Yes,North-East,43753.34,40K-50K
+26,26-35,Female,29.92,"Obese Class 3",2,No,South-East,3981.98,0-10K
+30,26-35,Female,30.9,"Obese Class 1",3,No,South-West,5325.65,0-10K
+41,36-45,Female,32.2,"Obese Class 1",1,No,South-West,6775.96,0-10K
+29,26-35,Female,32.11,"Obese Class 1",2,No,North-West,4922.92,0-10K
+61,55+,Male,31.57,"Obese Class 1",0,No,South-East,12557.61,10K-20K
+36,36-45,Female,26.2,Overweight,0,No,South-West,4883.87,0-10K
+25,18-25,Male,25.74,Overweight,0,No,South-East,2137.65,0-10K
+56,55+,Female,26.6,Overweight,1,No,North-West,12044.34,10K-20K
+18,18-25,Male,34.43,"Obese Class 1",0,No,South-East,1137.47,0-10K
+19,18-25,Male,30.59,"Obese Class 1",0,No,North-West,1639.56,0-10K
+39,36-45,Female,32.8,"Obese Class 1",0,No,South-West,5649.72,0-10K
+45,36-45,Female,28.6,Overweight,2,No,South-East,8516.83,0-10K
+51,46-55,Female,18.05,Underweight,0,No,North-West,9644.25,0-10K
+64,55+,Female,39.33,"Obese Class 2",0,No,North-East,14901.52,10K-20K
+19,18-25,Female,32.11,"Obese Class 1",0,No,North-West,2130.68,0-10K
+48,46-55,Female,32.23,"Obese Class 1",1,No,South-East,8871.15,0-10K
+60,55+,Female,24.035,"Normal Weight",0,No,North-West,13012.21,10K-20K
+27,26-35,Female,36.08,"Obese Class 2",0,Yes,South-East,37133.9,30K-40K
+46,46-55,Male,22.3,"Normal Weight",0,No,South-West,7147.1,0-10K
+28,26-35,Female,28.88,Overweight,1,No,North-East,4337.74,0-10K
+59,55+,Male,26.4,Overweight,0,No,South-East,11743.3,10K-20K
+35,26-35,Male,27.74,Overweight,2,Yes,North-East,20984.09,20K-30K
+63,55+,Female,31.8,"Obese Class 1",0,No,South-West,13880.95,10K-20K
+40,36-45,Male,41.23,"Obese Class 3",1,No,North-East,6610.11,0-10K
+20,18-25,Male,33,"Obese Class 1",1,No,South-West,1980.07,0-10K
+40,36-45,Male,30.875,"Obese Class 1",4,No,North-West,8162.72,0-10K
+24,18-25,Male,28.5,Overweight,2,No,North-West,3537.7,0-10K
+34,26-35,Female,26.73,Overweight,1,No,South-East,5002.78,0-10K
+45,36-45,Female,30.9,"Obese Class 1",2,No,South-West,8520.03,0-10K
+41,36-45,Female,37.1,"Obese Class 2",2,No,South-West,7371.77,0-10K
+53,46-55,Female,26.6,Overweight,0,No,North-West,10355.64,10K-20K
+27,26-35,Male,23.1,"Normal Weight",0,No,South-East,2483.74,0-10K
+26,26-35,Female,29.92,"Obese Class 3",1,No,South-East,3392.98,0-10K
+24,18-25,Female,23.21,"Normal Weight",0,No,South-East,25081.77,20K-30K
+34,26-35,Female,33.7,"Obese Class 1",1,No,South-West,5012.47,0-10K
+53,46-55,Female,33.25,"Obese Class 1",0,No,North-East,10564.88,10K-20K
+32,26-35,Male,30.8,"Obese Class 1",3,No,South-West,5253.52,0-10K
+19,18-25,Male,34.8,"Obese Class 1",0,Yes,South-West,34779.62,30K-40K
+42,36-45,Male,24.64,"Normal Weight",0,Yes,South-East,19515.54,10K-20K
+55,46-55,Male,33.88,"Obese Class 1",3,No,South-East,11987.17,10K-20K
+28,26-35,Male,38.06,"Obese Class 2",0,No,South-East,2689.5,0-10K
+58,55+,Female,41.91,"Obese Class 3",0,No,South-East,24227.34,20K-30K
+41,36-45,Female,31.635,"Obese Class 1",1,No,North-East,7358.18,0-10K
+47,46-55,Male,25.46,Overweight,2,No,North-East,9225.26,0-10K
+42,36-45,Female,36.195,"Obese Class 2",1,No,North-West,7443.64,0-10K
+59,55+,Female,27.83,Overweight,3,No,South-East,14001.29,10K-20K
+19,18-25,Female,17.8,Underweight,0,No,South-West,1727.78,0-10K
+59,55+,Male,27.5,Overweight,1,No,South-West,12333.83,10K-20K
+39,36-45,Male,24.51,"Normal Weight",2,No,North-West,6710.19,0-10K
+40,36-45,Female,22.22,"Normal Weight",2,Yes,South-East,19444.27,10K-20K
+18,18-25,Female,26.73,Overweight,0,No,South-East,1615.77,0-10K
+31,26-35,Male,38.39,"Obese Class 2",2,No,South-East,4463.21,0-10K
+19,18-25,Male,29.07,Overweight,0,Yes,North-West,17352.68,10K-20K
+44,36-45,Male,38.06,"Obese Class 2",1,No,South-East,7152.67,0-10K
+23,18-25,Female,36.67,"Obese Class 2",2,Yes,North-East,38511.63,30K-40K
+33,26-35,Female,22.135,"Normal Weight",1,No,North-East,5354.07,0-10K
+55,46-55,Female,26.8,Overweight,1,No,South-West,35160.13,30K-40K
+40,36-45,Male,35.3,"Obese Class 2",3,No,South-West,7196.87,0-10K
+63,55+,Female,27.74,Overweight,0,Yes,North-East,29523.17,20K-30K
+54,46-55,Male,30.02,"Obese Class 1",0,No,North-West,24476.48,20K-30K
+60,55+,Female,38.06,"Obese Class 2",0,No,South-East,12648.7,10K-20K
+24,18-25,Male,35.86,"Obese Class 2",0,No,South-East,1986.93,0-10K
+19,18-25,Male,20.9,"Normal Weight",1,No,South-West,1832.09,0-10K
+29,26-35,Male,28.975,Overweight,1,No,North-East,4040.56,0-10K
+18,18-25,Male,17.29,Underweight,2,Yes,North-East,12829.46,10K-20K
+63,55+,Female,32.2,"Obese Class 1",2,Yes,South-West,47305.3,40K-50K
+54,46-55,Male,34.21,"Obese Class 1",2,Yes,South-East,44260.75,40K-50K
+27,26-35,Male,30.3,"Obese Class 1",3,No,South-West,4260.74,0-10K
+50,46-55,Male,31.825,"Obese Class 1",0,Yes,North-East,41097.16,40K-50K
+55,46-55,Female,25.365,Overweight,3,No,North-East,13047.33,10K-20K
+56,55+,Male,33.63,"Obese Class 1",0,Yes,North-West,43921.18,40K-50K
+38,36-45,Female,40.15,"Obese Class 3",0,No,South-East,5400.98,0-10K
+51,46-55,Male,24.415,"Normal Weight",4,No,North-West,11520.1,10K-20K
+19,18-25,Male,31.92,"Obese Class 1",0,Yes,North-West,33750.29,30K-40K
+58,55+,Female,25.2,Overweight,0,No,South-West,11837.16,10K-20K
+20,18-25,Female,26.84,Overweight,1,Yes,South-East,17085.27,10K-20K
+52,46-55,Male,24.32,"Normal Weight",3,Yes,North-East,24869.84,20K-30K
+19,18-25,Male,36.955,"Obese Class 2",0,Yes,North-West,36219.41,30K-40K
+53,46-55,Female,38.06,"Obese Class 2",3,No,South-East,20463,20K-30K
+46,46-55,Male,42.35,"Obese Class 3",3,Yes,South-East,46151.12,40K-50K
+40,36-45,Male,19.8,"Normal Weight",1,Yes,South-East,17179.52,10K-20K
+59,55+,Female,32.395,"Obese Class 1",3,No,North-East,14590.63,10K-20K
+45,36-45,Male,30.2,"Obese Class 1",1,No,South-West,7441.05,0-10K
+49,46-55,Male,25.84,Overweight,1,No,North-East,9282.48,0-10K
+18,18-25,Male,29.37,Overweight,1,No,South-East,1719.44,0-10K
+50,46-55,Male,34.2,"Obese Class 1",2,Yes,South-West,42856.84,40K-50K
+41,36-45,Male,37.05,"Obese Class 2",2,No,North-West,7265.7,0-10K
+50,46-55,Male,27.455,Overweight,1,No,North-East,9617.66,0-10K
+25,18-25,Male,27.55,Overweight,0,No,North-West,2523.17,0-10K
+47,46-55,Female,26.6,Overweight,2,No,North-East,9715.84,0-10K
+19,18-25,Male,20.615,"Normal Weight",2,No,North-West,2803.7,0-10K
+22,18-25,Female,24.3,"Normal Weight",0,No,South-West,2150.47,0-10K
+59,55+,Male,31.79,"Obese Class 1",2,No,South-East,12928.79,10K-20K
+51,46-55,Female,21.56,"Normal Weight",1,No,South-East,9855.13,0-10K
+40,36-45,Female,28.12,Overweight,1,Yes,North-East,22331.57,20K-30K
+54,46-55,Male,40.565,"Obese Class 3",3,Yes,North-East,48549.18,40K-50K
+30,26-35,Male,27.645,Overweight,1,No,North-East,4237.13,0-10K
+55,46-55,Female,32.395,"Obese Class 1",1,No,North-East,11879.1,10K-20K
+52,46-55,Female,31.2,"Obese Class 1",0,No,South-West,9625.92,0-10K
+46,46-55,Male,26.62,Overweight,1,No,South-East,7742.11,0-10K
+46,46-55,Female,48.07,"Obese Class 3",2,No,North-East,9432.93,0-10K
+63,55+,Female,26.22,Overweight,0,No,North-West,14256.19,10K-20K
+59,55+,Female,36.765,"Obese Class 2",1,Yes,North-East,47896.79,40K-50K
+52,46-55,Male,26.4,Overweight,3,No,South-East,25992.82,20K-30K
+28,26-35,Female,33.4,"Obese Class 1",0,No,South-West,3172.02,0-10K
+29,26-35,Male,29.64,Overweight,1,No,North-East,20277.81,20K-30K
+25,18-25,Male,45.54,"Obese Class 3",2,Yes,South-East,42112.24,40K-50K
+22,18-25,Female,28.82,Overweight,0,No,South-East,2156.75,0-10K
+25,18-25,Male,26.8,Overweight,3,No,South-West,3906.13,0-10K
+18,18-25,Male,22.99,"Normal Weight",0,No,North-East,1704.57,0-10K
+19,18-25,Male,27.7,Overweight,0,Yes,South-West,16297.85,10K-20K
+47,46-55,Male,25.41,Overweight,1,Yes,South-East,21978.68,20K-30K
+31,26-35,Male,34.39,"Obese Class 1",3,Yes,North-West,38746.36,30K-40K
+48,46-55,Female,28.88,Overweight,1,No,North-West,9249.5,0-10K
+36,36-45,Male,27.55,Overweight,3,No,North-East,6746.74,0-10K
+53,46-55,Female,22.61,"Normal Weight",3,Yes,North-East,24873.38,20K-30K
+56,55+,Female,37.51,"Obese Class 2",2,No,South-East,12265.51,10K-20K
+28,26-35,Female,33,"Obese Class 1",2,No,South-East,4349.46,0-10K
+57,55+,Female,38,"Obese Class 2",2,No,South-West,12646.21,10K-20K
+29,26-35,Male,33.345,"Obese Class 1",2,No,North-West,19442.35,10K-20K
+28,26-35,Female,27.5,Overweight,2,No,South-West,20177.67,20K-30K
+30,26-35,Female,33.33,"Obese Class 1",1,No,South-East,4151.03,0-10K
+58,55+,Male,34.865,"Obese Class 1",0,No,North-East,11944.59,10K-20K
+41,36-45,Female,33.06,"Obese Class 1",2,No,North-West,7749.16,0-10K
+50,46-55,Male,26.6,Overweight,0,No,South-West,8444.47,0-10K
+19,18-25,Female,24.7,"Normal Weight",0,No,South-West,1737.38,0-10K
+43,36-45,Male,35.97,"Obese Class 2",3,Yes,South-East,42124.52,40K-50K
+49,46-55,Male,35.86,"Obese Class 2",0,No,South-East,8124.41,0-10K
+27,26-35,Female,31.4,"Obese Class 1",0,Yes,South-West,34838.87,30K-40K
+52,46-55,Male,33.25,"Obese Class 1",0,No,North-East,9722.77,0-10K
+50,46-55,Male,32.205,"Obese Class 1",0,No,North-West,8835.26,0-10K
+54,46-55,Male,32.775,"Obese Class 1",0,No,North-East,10435.07,10K-20K
+44,36-45,Female,27.645,Overweight,0,No,North-West,7421.19,0-10K
+32,26-35,Male,37.335,"Obese Class 2",1,No,North-East,4667.61,0-10K
+34,26-35,Male,25.27,Overweight,1,No,North-West,4894.75,0-10K
+26,26-35,Female,29.64,Overweight,4,No,North-East,24671.66,20K-30K
+34,26-35,Male,30.8,"Obese Class 1",0,Yes,South-West,35491.64,30K-40K
+57,55+,Male,40.945,"Obese Class 3",0,No,North-East,11566.3,10K-20K
+29,26-35,Male,27.2,Overweight,0,No,South-West,2866.09,0-10K
+40,36-45,Male,34.105,"Obese Class 1",1,No,North-East,6600.21,0-10K
+27,26-35,Female,23.21,"Normal Weight",1,No,South-East,3561.89,0-10K
+45,36-45,Male,36.48,"Obese Class 2",2,Yes,North-West,42760.5,40K-50K
+64,55+,Female,33.8,"Obese Class 1",1,Yes,South-West,47928.03,40K-50K
+52,46-55,Male,36.7,"Obese Class 2",0,No,South-West,9144.56,0-10K
+61,55+,Female,36.385,"Obese Class 2",1,Yes,North-East,48517.56,40K-50K
+52,46-55,Male,27.36,Overweight,0,Yes,North-West,24393.62,20K-30K
+61,55+,Female,31.16,"Obese Class 1",0,No,North-West,13429.04,10K-20K
+56,55+,Female,28.785,Overweight,0,No,North-East,11658.38,10K-20K
+43,36-45,Female,35.72,"Obese Class 2",2,No,North-East,19144.58,10K-20K
+64,55+,Male,34.5,"Obese Class 1",0,No,South-West,13822.8,10K-20K
+60,55+,Male,25.74,Overweight,0,No,South-East,12142.58,10K-20K
+62,55+,Male,27.55,Overweight,1,No,North-West,13937.67,10K-20K
+50,46-55,Male,32.3,"Obese Class 1",1,Yes,North-East,41919.1,40K-50K
+46,46-55,Female,27.72,Overweight,1,No,South-East,8232.64,0-10K
+24,18-25,Female,27.6,Overweight,0,No,South-West,18955.22,10K-20K
+62,55+,Male,30.02,"Obese Class 1",0,No,North-West,13352.1,10K-20K
+60,55+,Female,27.55,Overweight,0,No,North-East,13217.09,10K-20K
+63,55+,Male,36.765,"Obese Class 2",0,No,North-East,13981.85,10K-20K
+49,46-55,Female,41.47,"Obese Class 3",4,No,South-East,10977.21,10K-20K
+34,26-35,Female,29.26,Overweight,3,No,South-East,6184.3,0-10K
+33,26-35,Male,35.75,"Obese Class 2",2,No,South-East,4890,0-10K
+46,46-55,Male,33.345,"Obese Class 1",1,No,North-East,8334.46,0-10K
+36,36-45,Female,29.92,"Obese Class 3",1,No,South-East,5478.04,0-10K
+19,18-25,Male,27.835,Overweight,0,No,North-West,1635.73,0-10K
+57,55+,Female,23.18,"Normal Weight",0,No,North-West,11830.61,10K-20K
+50,46-55,Female,25.6,Overweight,0,No,South-West,8932.08,0-10K
+30,26-35,Female,27.7,Overweight,0,No,South-West,3554.2,0-10K
+33,26-35,Male,35.245,"Obese Class 2",0,No,North-East,12404.88,10K-20K
+18,18-25,Female,38.28,"Obese Class 2",0,No,South-East,14133.04,10K-20K
+46,46-55,Male,27.6,Overweight,0,No,South-West,24603.05,20K-30K
+46,46-55,Male,43.89,"Obese Class 3",3,No,South-East,8944.12,0-10K
+47,46-55,Male,29.83,Overweight,3,No,North-West,9620.33,0-10K
+23,18-25,Male,41.91,"Obese Class 3",0,No,South-East,1837.28,0-10K
+18,18-25,Female,20.79,"Normal Weight",0,No,South-East,1607.51,0-10K
+48,46-55,Female,32.3,"Obese Class 1",2,No,North-East,10043.25,10K-20K
+35,26-35,Male,30.5,"Obese Class 1",1,No,South-West,4751.07,0-10K
+19,18-25,Female,21.7,"Normal Weight",0,Yes,South-West,13844.51,10K-20K
+21,18-25,Female,26.4,Overweight,1,No,South-West,2597.78,0-10K
+21,18-25,Female,21.89,"Normal Weight",2,No,South-East,3180.51,0-10K
+49,46-55,Female,30.78,"Obese Class 1",1,No,North-East,9778.35,0-10K
+56,55+,Female,32.3,"Obese Class 1",3,No,North-East,13430.26,10K-20K
+42,36-45,Female,24.985,"Obese Class 3",2,No,North-West,8017.06,0-10K
+44,36-45,Male,32.015,"Obese Class 1",2,No,North-West,8116.27,0-10K
+18,18-25,Male,30.4,"Obese Class 1",3,No,North-East,3481.87,0-10K
+61,55+,Female,21.09,"Normal Weight",0,No,North-West,13415.04,10K-20K
+57,55+,Female,22.23,"Normal Weight",0,No,North-East,12029.29,10K-20K
+42,36-45,Female,33.155,"Obese Class 1",1,No,North-East,7639.42,0-10K
+26,26-35,Male,32.9,"Obese Class 1",2,Yes,South-West,36085.22,30K-40K
+20,18-25,Male,33.33,"Obese Class 1",0,No,South-East,1391.53,0-10K
+23,18-25,Female,28.31,Overweight,0,Yes,North-West,18033.97,10K-20K
+39,36-45,Female,24.89,"Normal Weight",3,Yes,North-East,21659.93,20K-30K
+24,18-25,Male,40.15,"Obese Class 3",0,Yes,South-East,38126.25,30K-40K
+64,55+,Female,30.115,"Obese Class 1",3,No,North-West,16455.71,10K-20K
+62,55+,Male,31.46,"Obese Class 1",1,No,South-East,27000.98,20K-30K
+27,26-35,Female,17.955,Underweight,2,Yes,North-East,15006.58,10K-20K
+55,46-55,Male,30.685,"Obese Class 1",0,Yes,North-East,42303.69,40K-50K
+55,46-55,Male,33,"Obese Class 1",0,No,South-East,20781.49,20K-30K
+35,26-35,Female,43.34,"Obese Class 3",2,No,South-East,5846.92,0-10K
+44,36-45,Male,22.135,"Normal Weight",2,No,North-East,8302.54,0-10K
+19,18-25,Male,34.4,"Obese Class 1",0,No,South-West,1261.86,0-10K
+58,55+,Female,39.05,"Obese Class 2",0,No,South-East,11856.41,10K-20K
+50,46-55,Male,25.365,Overweight,2,No,North-West,30284.64,30K-40K
+26,26-35,Female,22.61,"Normal Weight",0,No,North-West,3176.82,0-10K
+24,18-25,Female,30.21,"Obese Class 1",3,No,North-West,4618.08,0-10K
+48,46-55,Male,35.625,"Obese Class 2",4,No,North-East,10736.87,10K-20K
+19,18-25,Female,37.43,"Obese Class 2",0,No,North-West,2138.07,0-10K
+48,46-55,Male,31.445,"Obese Class 1",1,No,North-East,8964.06,0-10K
+49,46-55,Male,31.35,"Obese Class 1",1,No,North-East,9290.14,0-10K
+46,46-55,Female,32.3,"Obese Class 1",2,No,North-East,9411,0-10K
+46,46-55,Male,19.855,"Normal Weight",0,No,North-West,7526.71,0-10K
+43,36-45,Female,34.4,"Obese Class 1",3,No,South-West,8522,0-10K
+21,18-25,Male,31.02,"Obese Class 1",0,No,South-East,16586.5,10K-20K
+64,55+,Male,25.6,Overweight,2,No,South-West,14988.43,10K-20K
+18,18-25,Female,38.17,"Obese Class 2",0,No,South-East,1631.67,0-10K
+51,46-55,Female,20.6,"Normal Weight",0,No,South-West,9264.8,0-10K
+47,46-55,Male,47.52,"Obese Class 3",1,No,South-East,8083.92,0-10K
+64,55+,Female,32.965,"Obese Class 1",0,No,North-West,14692.67,10K-20K
+49,46-55,Male,32.3,"Obese Class 1",3,No,North-West,10269.46,10K-20K
+31,26-35,Male,20.4,"Normal Weight",0,No,South-West,3260.2,0-10K
+52,46-55,Female,38.38,"Obese Class 2",2,No,North-East,11396.9,10K-20K
+33,26-35,Female,24.31,"Normal Weight",0,No,South-East,4185.1,0-10K
+47,46-55,Female,23.6,"Normal Weight",1,No,South-West,8539.67,0-10K
+38,36-45,Male,21.12,"Normal Weight",3,No,South-East,6652.53,0-10K
+32,26-35,Male,30.03,"Obese Class 1",1,No,South-East,4074.45,0-10K
+19,18-25,Male,17.48,Underweight,0,No,North-West,1621.34,0-10K
+44,36-45,Female,20.235,"Normal Weight",1,Yes,North-East,19594.81,10K-20K
+26,26-35,Female,17.195,Underweight,2,Yes,North-East,14455.64,10K-20K
+25,18-25,Male,23.9,"Normal Weight",5,No,South-West,5080.1,0-10K
+19,18-25,Female,35.15,"Obese Class 2",0,No,North-West,2134.9,0-10K
+43,36-45,Female,35.64,"Obese Class 2",1,No,South-East,7345.73,0-10K
+52,46-55,Male,34.1,"Obese Class 1",0,No,South-East,9140.95,0-10K
+36,36-45,Female,22.6,"Normal Weight",2,Yes,South-West,18608.26,10K-20K
+64,55+,Male,39.16,"Obese Class 2",1,No,South-East,14418.28,10K-20K
+63,55+,Female,26.98,Overweight,0,Yes,North-West,28950.47,20K-30K
+64,55+,Male,33.88,"Obese Class 1",0,Yes,South-East,46889.26,40K-50K
+61,55+,Male,35.86,"Obese Class 2",0,Yes,South-East,46599.11,40K-50K
+40,36-45,Male,32.775,"Obese Class 1",1,Yes,North-East,39125.33,30K-40K
+25,18-25,Male,30.59,"Obese Class 1",0,No,North-East,2727.4,0-10K
+48,46-55,Male,30.2,"Obese Class 1",2,No,South-West,8968.33,0-10K
+45,36-45,Male,24.31,"Normal Weight",5,No,South-East,9788.87,0-10K
+38,36-45,Female,27.265,Overweight,1,No,North-East,6555.07,0-10K
+18,18-25,Female,29.165,Overweight,0,No,North-East,7323.73,0-10K
+21,18-25,Female,16.815,Underweight,1,No,North-East,3167.46,0-10K
+27,26-35,Female,30.4,"Obese Class 1",3,No,North-West,18804.75,10K-20K
+19,18-25,Male,33.1,"Obese Class 1",0,No,South-West,23082.96,20K-30K
+29,26-35,Female,20.235,"Normal Weight",2,No,North-West,4906.41,0-10K
+42,36-45,Male,26.9,Overweight,0,No,South-West,5969.72,0-10K
+60,55+,Female,30.5,"Obese Class 1",0,No,South-West,12638.2,10K-20K
+31,26-35,Male,28.595,Overweight,1,No,North-West,4243.59,0-10K
+60,55+,Male,33.11,"Obese Class 1",3,No,South-East,13919.82,10K-20K
+22,18-25,Male,31.73,"Obese Class 1",0,No,North-East,2254.8,0-10K
+35,26-35,Male,28.9,Overweight,3,No,South-West,5926.85,0-10K
+52,46-55,Female,46.75,"Obese Class 3",5,No,South-East,12592.53,10K-20K
+26,26-35,Male,29.45,Overweight,0,No,North-East,2897.32,0-10K
+31,26-35,Female,32.68,"Obese Class 1",1,No,North-West,4738.27,0-10K
+33,26-35,Female,33.5,"Obese Class 1",0,Yes,South-West,37079.37,30K-40K
+18,18-25,Male,43.01,"Obese Class 3",0,No,South-East,1149.4,0-10K
+59,55+,Female,36.52,"Obese Class 2",1,No,South-East,28287.9,20K-30K
+56,55+,Male,26.695,Overweight,1,Yes,North-West,26109.33,20K-30K
+45,36-45,Female,33.1,"Obese Class 1",0,No,South-West,7345.08,0-10K
+60,55+,Male,29.64,Overweight,0,No,North-East,12731,10K-20K
+56,55+,Female,25.65,Overweight,0,No,North-West,11454.02,10K-20K
+40,36-45,Female,29.6,Overweight,0,No,South-West,5910.94,0-10K
+35,26-35,Male,38.6,"Obese Class 2",1,No,South-West,4762.33,0-10K
+39,36-45,Male,29.6,Overweight,4,No,South-West,7512.27,0-10K
+30,26-35,Male,24.13,"Normal Weight",1,No,North-West,4032.24,0-10K
+24,18-25,Male,23.4,"Normal Weight",0,No,South-West,1969.61,0-10K
+20,18-25,Male,29.735,Overweight,0,No,North-West,1769.53,0-10K
+32,26-35,Male,46.53,"Obese Class 3",2,No,South-East,4686.39,0-10K
+59,55+,Male,37.4,"Obese Class 2",0,No,South-West,21797,20K-30K
+55,46-55,Female,30.14,"Obese Class 1",2,No,South-East,11881.97,10K-20K
+57,55+,Female,30.495,"Obese Class 1",0,No,North-West,11840.78,10K-20K
+56,55+,Male,39.6,"Obese Class 2",0,No,South-West,10601.41,10K-20K
+40,36-45,Female,33,"Obese Class 1",3,No,South-East,7682.67,0-10K
+49,46-55,Female,36.63,"Obese Class 2",3,No,South-East,10381.48,10K-20K
+42,36-45,Male,30,"Obese Class 1",0,Yes,South-West,22144.03,20K-30K
+62,55+,Female,38.095,"Obese Class 2",2,No,North-East,15230.32,10K-20K
+56,55+,Male,25.935,Overweight,0,No,North-East,11165.42,10K-20K
+19,18-25,Male,25.175,Overweight,0,No,North-West,1632.04,0-10K
+30,26-35,Female,28.38,Overweight,1,Yes,South-East,19521.97,10K-20K
+60,55+,Female,28.7,Overweight,1,No,South-West,13224.69,10K-20K
+56,55+,Female,33.82,"Obese Class 1",2,No,North-West,12643.38,10K-20K
+28,26-35,Female,24.32,"Normal Weight",1,No,North-East,23288.93,20K-30K
+18,18-25,Female,24.09,"Normal Weight",1,No,South-East,2201.1,0-10K
+27,26-35,Male,32.67,"Obese Class 1",0,No,South-East,2497.04,0-10K
+18,18-25,Female,30.115,"Obese Class 1",0,No,North-East,2203.47,0-10K
+19,18-25,Female,29.8,Overweight,0,No,South-West,1744.46,0-10K
+47,46-55,Female,33.345,"Obese Class 1",0,No,North-East,20878.78,20K-30K
+54,46-55,Male,25.1,Overweight,3,Yes,South-West,25382.3,20K-30K
+61,55+,Male,28.31,Overweight,1,Yes,North-West,28868.66,20K-30K
+24,18-25,Male,28.5,Overweight,0,Yes,North-East,35147.53,30K-40K
+25,18-25,Male,35.625,"Obese Class 2",0,No,North-West,2534.39,0-10K
+21,18-25,Male,36.85,"Obese Class 2",0,No,South-East,1534.3,0-10K
+23,18-25,Male,32.56,"Obese Class 1",0,No,South-East,1824.29,0-10K
+63,55+,Male,41.325,"Obese Class 3",3,No,North-West,15555.19,10K-20K
+49,46-55,Male,37.51,"Obese Class 2",2,No,South-East,9304.7,0-10K
+18,18-25,Female,31.35,"Obese Class 1",0,No,South-East,1622.19,0-10K
+51,46-55,Female,39.5,"Obese Class 2",1,No,South-West,9880.07,0-10K
+48,46-55,Male,34.3,"Obese Class 1",3,No,South-West,9563.03,0-10K
+31,26-35,Female,31.065,"Obese Class 1",0,No,North-East,4347.02,0-10K
+54,46-55,Female,21.47,"Normal Weight",3,No,North-West,12475.35,10K-20K
+19,18-25,Male,28.7,Overweight,0,No,South-West,1253.94,0-10K
+44,36-45,Female,38.06,"Obese Class 2",0,Yes,South-East,48885.14,40K-50K
+53,46-55,Male,31.16,"Obese Class 1",1,No,North-West,10461.98,10K-20K
+19,18-25,Female,32.9,"Obese Class 1",0,No,South-West,1748.77,0-10K
+61,55+,Female,25.08,Overweight,0,No,South-East,24513.09,20K-30K
+18,18-25,Female,25.08,Overweight,0,No,North-East,2196.47,0-10K
+61,55+,Male,43.4,"Obese Class 3",0,No,South-West,12574.05,10K-20K
+21,18-25,Male,25.7,Overweight,4,Yes,South-West,17942.11,10K-20K
+20,18-25,Male,27.93,Overweight,0,No,North-East,1967.02,0-10K
+31,26-35,Female,23.6,"Normal Weight",2,No,South-West,4931.65,0-10K
+45,36-45,Male,28.7,Overweight,2,No,South-West,8027.97,0-10K
+44,36-45,Female,23.98,"Normal Weight",2,No,South-East,8211.1,0-10K
+62,55+,Female,39.2,"Obese Class 2",0,No,South-West,13470.86,10K-20K
+29,26-35,Male,34.4,"Obese Class 1",0,Yes,South-West,36197.7,30K-40K
+43,36-45,Male,26.03,Overweight,0,No,North-East,6837.37,0-10K
+51,46-55,Male,23.21,"Normal Weight",1,Yes,South-East,22218.11,20K-30K
+19,18-25,Male,30.25,"Obese Class 1",0,Yes,South-East,32548.34,30K-40K
+38,36-45,Female,28.93,Overweight,1,No,South-East,5974.38,0-10K
+37,36-45,Male,30.875,"Obese Class 1",3,No,North-West,6796.86,0-10K
+22,18-25,Male,31.35,"Obese Class 1",1,No,North-West,2643.27,0-10K
+21,18-25,Male,23.75,"Normal Weight",2,No,North-West,3077.1,0-10K
+24,18-25,Female,25.27,Overweight,0,No,North-East,3044.21,0-10K
+57,55+,Female,28.7,Overweight,0,No,South-West,11455.28,10K-20K
+56,55+,Male,32.11,"Obese Class 1",1,No,North-East,11763,10K-20K
+27,26-35,Male,33.66,"Obese Class 1",0,No,South-East,2498.41,0-10K
+51,46-55,Male,22.42,"Normal Weight",0,No,North-East,9361.33,0-10K
+19,18-25,Male,30.4,"Obese Class 1",0,No,South-West,1256.3,0-10K
+39,36-45,Male,28.3,Overweight,1,Yes,South-West,21082.16,20K-30K
+58,55+,Male,35.7,"Obese Class 2",0,No,South-West,11362.76,10K-20K
+20,18-25,Male,35.31,"Obese Class 2",1,No,South-East,27724.29,20K-30K
+45,36-45,Male,30.495,"Obese Class 1",2,No,North-West,8413.46,0-10K
+35,26-35,Female,31,"Obese Class 1",1,No,South-West,5240.77,0-10K
+31,26-35,Male,30.875,"Obese Class 1",0,No,North-East,3857.76,0-10K
+50,46-55,Female,27.36,Overweight,0,No,North-East,25656.58,20K-30K
+32,26-35,Female,44.22,"Obese Class 3",0,No,South-East,3994.18,0-10K
+51,46-55,Female,33.915,"Obese Class 1",0,No,North-East,9866.3,0-10K
+38,36-45,Female,37.73,"Obese Class 2",0,No,South-East,5397.62,0-10K
+42,36-45,Male,26.07,Overweight,1,Yes,South-East,38245.59,30K-40K
+18,18-25,Female,33.88,"Obese Class 1",0,No,South-East,11482.63,10K-20K
+19,18-25,Female,30.59,"Obese Class 1",2,No,North-West,24059.68,20K-30K
+51,46-55,Female,25.8,Overweight,1,No,South-West,9861.02,0-10K
+46,46-55,Male,39.425,"Obese Class 2",1,No,North-East,8342.91,0-10K
+18,18-25,Male,25.46,Overweight,0,No,North-East,1708,0-10K
+57,55+,Male,42.13,"Obese Class 3",1,Yes,South-East,48675.52,40K-50K
+62,55+,Female,31.73,"Obese Class 1",0,No,North-East,14043.48,10K-20K
+59,55+,Male,29.7,Overweight,2,No,South-East,12925.89,10K-20K
+37,36-45,Male,36.19,"Obese Class 2",0,No,South-East,19214.71,10K-20K
+64,55+,Male,40.48,"Obese Class 3",0,No,South-East,13831.12,10K-20K
+38,36-45,Male,28.025,Overweight,1,No,North-East,6067.13,0-10K
+33,26-35,Female,38.9,"Obese Class 2",3,No,South-West,5972.38,0-10K
+46,46-55,Female,30.2,"Obese Class 1",2,No,South-West,8825.09,0-10K
+46,46-55,Female,28.05,Overweight,1,No,South-East,8233.1,0-10K
+53,46-55,Male,31.35,"Obese Class 1",0,No,South-East,27346.04,20K-30K
+34,26-35,Female,38,"Obese Class 2",3,No,South-West,6196.45,0-10K
+20,18-25,Female,31.79,"Obese Class 1",2,No,South-East,3056.39,0-10K
+63,55+,Female,36.3,"Obese Class 2",0,No,South-East,13887.2,10K-20K
+54,46-55,Female,47.41,"Obese Class 3",0,Yes,South-East,63770.43,50K+
+54,46-55,Male,30.21,"Obese Class 1",0,No,North-West,10231.5,10K-20K
+49,46-55,Male,25.84,Overweight,2,Yes,North-West,23807.24,20K-30K
+28,26-35,Male,35.435,"Obese Class 2",0,No,North-East,3268.85,0-10K
+54,46-55,Female,46.7,"Obese Class 3",2,No,South-West,11538.42,10K-20K
+25,18-25,Female,28.595,Overweight,0,No,North-East,3213.62,0-10K
+43,36-45,Female,46.2,"Obese Class 3",0,Yes,South-East,45863.2,40K-50K
+63,55+,Male,30.8,"Obese Class 1",0,No,South-West,13390.56,10K-20K
+32,26-35,Female,28.93,Overweight,0,No,South-East,3972.92,0-10K
+62,55+,Male,21.4,"Normal Weight",0,No,South-West,12957.12,10K-20K
+52,46-55,Female,31.73,"Obese Class 1",2,No,North-West,11187.66,10K-20K
+25,18-25,Female,41.325,"Obese Class 3",0,No,North-East,17878.9,10K-20K
+28,26-35,Male,23.8,"Normal Weight",2,No,South-West,3847.67,0-10K
+46,46-55,Male,33.44,"Obese Class 1",1,No,North-East,8334.59,0-10K
+34,26-35,Male,34.21,"Obese Class 1",0,No,South-East,3935.18,0-10K
+35,26-35,Female,34.105,"Obese Class 1",3,Yes,North-West,39983.43,30K-40K
+19,18-25,Male,35.53,"Obese Class 2",0,No,North-West,1646.43,0-10K
+46,46-55,Female,19.95,"Normal Weight",2,No,North-West,9193.84,0-10K
+54,46-55,Female,32.68,"Obese Class 1",0,No,North-East,10923.93,10K-20K
+27,26-35,Male,30.5,"Obese Class 1",0,No,South-West,2494.02,0-10K
+50,46-55,Male,44.77,"Obese Class 3",1,No,South-East,9058.73,0-10K
+18,18-25,Female,32.12,"Obese Class 1",2,No,South-East,2801.26,0-10K
+19,18-25,Female,30.495,"Obese Class 1",0,No,North-West,2128.43,0-10K
+38,36-45,Female,40.565,"Obese Class 3",1,No,North-West,6373.56,0-10K
+41,36-45,Male,30.59,"Obese Class 1",2,No,North-West,7256.72,0-10K
+49,46-55,Female,31.9,"Obese Class 1",5,No,South-West,11552.9,10K-20K
+48,46-55,Male,40.565,"Obese Class 3",2,Yes,North-West,45702.02,40K-50K
+31,26-35,Female,29.1,Overweight,0,No,South-West,3761.29,0-10K
+18,18-25,Female,37.29,"Obese Class 2",1,No,South-East,2219.45,0-10K
+30,26-35,Female,43.12,"Obese Class 3",2,No,South-East,4753.64,0-10K
+62,55+,Female,36.86,"Obese Class 2",1,No,North-East,31620,30K-40K
+57,55+,Female,34.295,"Obese Class 1",2,No,North-East,13224.06,10K-20K
+58,55+,Female,27.17,Overweight,0,No,North-West,12222.9,10K-20K
+22,18-25,Male,26.84,Overweight,0,No,South-East,1665,0-10K
+31,26-35,Female,38.095,"Obese Class 2",1,Yes,North-East,58571.07,50K+
+52,46-55,Male,30.2,"Obese Class 1",1,No,South-West,9724.53,0-10K
+25,18-25,Female,23.465,"Normal Weight",0,No,North-East,3206.49,0-10K
+59,55+,Male,25.46,Overweight,1,No,North-East,12913.99,10K-20K
+19,18-25,Male,30.59,"Obese Class 1",0,No,North-West,1639.56,0-10K
+39,36-45,Male,45.43,"Obese Class 3",2,No,South-East,6356.27,0-10K
+32,26-35,Female,23.65,"Normal Weight",1,No,South-East,17626.24,10K-20K
+19,18-25,Male,20.7,"Normal Weight",0,No,South-West,1242.82,0-10K
+33,26-35,Female,28.27,Overweight,1,No,South-East,4779.6,0-10K
+21,18-25,Male,20.235,"Normal Weight",3,No,North-East,3861.21,0-10K
+34,26-35,Female,30.21,"Obese Class 1",1,Yes,North-West,43943.88,40K-50K
+61,55+,Female,35.91,"Obese Class 2",0,No,North-East,13635.64,10K-20K
+38,36-45,Female,30.69,"Obese Class 1",1,No,South-East,5976.83,0-10K
+58,55+,Female,29,Overweight,0,No,South-West,11842.44,10K-20K
+47,46-55,Male,19.57,"Normal Weight",1,No,North-West,8428.07,0-10K
+20,18-25,Male,31.13,"Obese Class 1",2,No,South-East,2566.47,0-10K
+21,18-25,Female,21.85,"Normal Weight",1,Yes,North-East,15359.1,10K-20K
+41,36-45,Male,40.26,"Obese Class 3",0,No,South-East,5709.16,0-10K
+46,46-55,Female,33.725,"Obese Class 1",1,No,North-East,8823.99,0-10K
+42,36-45,Female,29.48,Overweight,2,No,South-East,7640.31,0-10K
+34,26-35,Female,33.25,"Obese Class 1",1,No,North-East,5594.85,0-10K
+43,36-45,Male,32.6,"Obese Class 1",2,No,South-West,7441.5,0-10K
+52,46-55,Female,37.525,"Obese Class 2",2,No,North-West,33471.97,30K-40K
+18,18-25,Female,39.16,"Obese Class 2",0,No,South-East,1633.04,0-10K
+51,46-55,Male,31.635,"Obese Class 1",0,No,North-West,9174.14,0-10K
+56,55+,Female,25.3,Overweight,0,No,South-West,11070.54,10K-20K
+64,55+,Female,39.05,"Obese Class 2",3,No,South-East,16085.13,10K-20K
+19,18-25,Female,28.31,Overweight,0,Yes,North-West,17468.98,10K-20K
+51,46-55,Female,34.1,"Obese Class 1",0,No,South-East,9283.56,0-10K
+27,26-35,Female,25.175,Overweight,0,No,North-East,3558.62,0-10K
+59,55+,Female,23.655,"Normal Weight",0,Yes,North-West,25678.78,20K-30K
+28,26-35,Male,26.98,Overweight,2,No,North-East,4435.09,0-10K
+30,26-35,Male,37.8,"Obese Class 2",2,Yes,South-West,39241.44,30K-40K
+47,46-55,Female,29.37,Overweight,1,No,South-East,8547.69,0-10K
+38,36-45,Female,34.8,"Obese Class 1",2,No,South-West,6571.54,0-10K
+18,18-25,Female,33.155,"Obese Class 1",0,No,North-East,2207.7,0-10K
+34,26-35,Female,19,"Normal Weight",3,No,North-East,6753.04,0-10K
+20,18-25,Female,33,"Obese Class 1",0,No,South-East,1880.07,0-10K
+47,46-55,Female,36.63,"Obese Class 2",1,Yes,South-East,42969.85,40K-50K
+56,55+,Female,28.595,Overweight,0,No,North-East,11658.12,10K-20K
+49,46-55,Male,25.6,Overweight,2,Yes,South-West,23306.55,20K-30K
+19,18-25,Female,33.11,"Obese Class 1",0,Yes,South-East,34439.86,30K-40K
+55,46-55,Female,37.1,"Obese Class 2",0,No,South-West,10713.64,10K-20K
+30,26-35,Male,31.4,"Obese Class 1",1,No,South-West,3659.35,0-10K
+37,36-45,Male,34.1,"Obese Class 1",4,Yes,South-West,40182.25,40K-50K
+49,46-55,Female,21.3,"Normal Weight",1,No,South-West,9182.17,0-10K
+18,18-25,Male,33.535,"Obese Class 1",0,Yes,North-East,34617.84,30K-40K
+59,55+,Male,28.785,Overweight,0,No,North-West,12129.61,10K-20K
+29,26-35,Female,26.03,Overweight,0,No,North-West,3736.46,0-10K
+36,36-45,Male,28.88,Overweight,3,No,North-East,6748.59,0-10K
+33,26-35,Male,42.46,"Obese Class 3",1,No,South-East,11326.71,10K-20K
+58,55+,Male,38,"Obese Class 2",0,No,South-West,11365.95,10K-20K
+44,36-45,Female,38.95,"Obese Class 2",0,Yes,North-West,42983.46,40K-50K
+53,46-55,Male,36.1,"Obese Class 2",1,No,South-West,10085.85,10K-20K
+24,18-25,Male,29.3,Overweight,0,No,South-West,1977.82,0-10K
+29,26-35,Female,35.53,"Obese Class 2",0,No,South-East,3366.67,0-10K
+40,36-45,Male,22.705,"Normal Weight",2,No,North-East,7173.36,0-10K
+51,46-55,Male,39.7,"Obese Class 2",1,No,South-West,9391.35,0-10K
+64,55+,Male,38.19,"Obese Class 2",0,No,North-East,14410.93,10K-20K
+19,18-25,Female,24.51,"Normal Weight",1,No,North-West,2709.11,0-10K
+35,26-35,Female,38.095,"Obese Class 2",2,No,North-East,24915.05,20K-30K
+39,36-45,Male,26.41,Overweight,0,Yes,North-East,20149.32,20K-30K
+56,55+,Male,33.66,"Obese Class 1",4,No,South-East,12949.16,10K-20K
+33,26-35,Male,42.4,"Obese Class 3",5,No,South-West,6666.24,0-10K
+42,36-45,Male,28.31,Overweight,3,Yes,North-West,32787.46,30K-40K
+61,55+,Male,33.915,"Obese Class 1",0,No,North-East,13143.86,10K-20K
+23,18-25,Female,34.96,"Obese Class 3",3,No,North-West,4466.62,0-10K
+43,36-45,Male,35.31,"Obese Class 2",2,No,South-East,18806.15,10K-20K
+48,46-55,Male,30.78,"Obese Class 1",3,No,North-East,10141.14,10K-20K
+39,36-45,Male,26.22,Overweight,1,No,North-West,6123.57,0-10K
+40,36-45,Female,23.37,"Normal Weight",3,No,North-East,8252.28,0-10K
+18,18-25,Male,28.5,Overweight,0,No,North-East,1712.23,0-10K
+58,55+,Female,32.965,"Obese Class 1",0,No,North-East,12430.95,10K-20K
+49,46-55,Female,42.68,"Obese Class 3",2,No,South-East,9800.89,0-10K
+53,46-55,Female,39.6,"Obese Class 2",1,No,South-East,10579.71,10K-20K
+48,46-55,Female,31.13,"Obese Class 1",0,No,South-East,8280.62,0-10K
+45,36-45,Female,36.3,"Obese Class 2",2,No,South-East,8527.53,0-10K
+59,55+,Female,35.2,"Obese Class 2",0,No,South-East,12244.53,10K-20K
+52,46-55,Female,25.3,Overweight,2,Yes,South-East,24667.42,20K-30K
+26,26-35,Female,42.4,"Obese Class 3",1,No,South-West,3410.32,0-10K
+27,26-35,Male,33.155,"Obese Class 1",2,No,North-West,4058.71,0-10K
+48,46-55,Female,35.91,"Obese Class 2",1,No,North-East,26392.26,20K-30K
+57,55+,Female,28.785,Overweight,4,No,North-East,14394.4,10K-20K
+37,36-45,Male,46.53,"Obese Class 3",3,No,South-East,6435.62,0-10K
+57,55+,Female,23.98,"Normal Weight",1,No,South-East,22192.44,20K-30K
+32,26-35,Female,31.54,"Obese Class 1",1,No,North-East,5148.55,0-10K
+18,18-25,Male,33.66,"Obese Class 1",0,No,South-East,1136.4,0-10K
+64,55+,Female,22.99,"Normal Weight",0,Yes,South-East,27037.91,20K-30K
+43,36-45,Male,38.06,"Obese Class 2",2,Yes,South-East,42560.43,40K-50K
+49,46-55,Male,28.7,Overweight,1,No,South-West,8703.46,0-10K
+40,36-45,Female,32.775,"Obese Class 1",2,Yes,North-West,40003.33,40K-50K
+62,55+,Male,32.015,"Obese Class 1",0,Yes,North-East,45710.21,40K-50K
+40,36-45,Female,29.81,Overweight,1,No,South-East,6500.24,0-10K
+30,26-35,Male,31.57,"Obese Class 1",3,No,South-East,4837.58,0-10K
+29,26-35,Female,31.16,"Obese Class 1",0,No,North-East,3943.6,0-10K
+36,36-45,Male,29.7,Overweight,0,No,South-East,4399.73,0-10K
+41,36-45,Female,31.02,"Obese Class 1",0,No,South-East,6185.32,0-10K
+44,36-45,Female,43.89,"Obese Class 3",2,Yes,South-East,46200.99,40K-50K
+45,36-45,Male,21.375,"Normal Weight",0,No,North-West,7222.79,0-10K
+55,46-55,Female,40.81,"Obese Class 3",3,No,South-East,12485.8,10K-20K
+60,55+,Male,31.35,"Obese Class 1",3,Yes,North-West,46130.53,40K-50K
+56,55+,Male,36.1,"Obese Class 2",3,No,South-West,12363.55,10K-20K
+49,46-55,Female,23.18,"Normal Weight",2,No,North-West,10156.78,10K-20K
+21,18-25,Female,17.4,Underweight,1,No,South-West,2585.27,0-10K
+19,18-25,Male,20.3,"Normal Weight",0,No,South-West,1242.26,0-10K
+39,36-45,Male,35.3,"Obese Class 2",2,Yes,South-West,40103.89,40K-50K
+53,46-55,Male,24.32,"Normal Weight",0,No,North-West,9863.47,0-10K
+33,26-35,Female,18.5,"Normal Weight",1,No,South-West,4766.02,0-10K
+53,46-55,Male,26.41,Overweight,2,No,North-East,11244.38,10K-20K
+42,36-45,Male,26.125,Overweight,2,No,North-East,7729.65,0-10K
+40,36-45,Male,41.69,"Obese Class 3",0,No,South-East,5438.75,0-10K
+47,46-55,Female,24.1,"Normal Weight",1,No,South-West,26236.58,20K-30K
+27,26-35,Male,31.13,"Obese Class 1",1,Yes,South-East,34806.47,30K-40K
+21,18-25,Male,27.36,Overweight,0,No,North-East,2104.11,0-10K
+47,46-55,Male,36.2,"Obese Class 2",1,No,South-West,8068.18,0-10K
+20,18-25,Male,32.395,"Obese Class 1",1,No,North-West,2362.23,0-10K
+24,18-25,Male,23.655,"Normal Weight",0,No,North-West,2352.97,0-10K
+27,26-35,Female,34.8,"Obese Class 1",1,No,South-West,3578,0-10K
+26,26-35,Female,40.185,"Obese Class 3",0,No,North-West,3201.25,0-10K
+53,46-55,Female,32.3,"Obese Class 1",2,No,North-East,29186.48,20K-30K
+41,36-45,Male,35.75,"Obese Class 2",1,Yes,South-East,40273.65,40K-50K
+56,55+,Male,33.725,"Obese Class 1",0,No,North-West,10976.25,10K-20K
+23,18-25,Female,39.27,"Obese Class 2",2,No,South-East,3500.61,0-10K
+21,18-25,Female,34.87,"Obese Class 1",0,No,South-East,2020.55,0-10K
+50,46-55,Female,44.745,"Obese Class 3",0,No,North-East,9541.7,0-10K
+53,46-55,Male,41.47,"Obese Class 3",0,No,South-East,9504.31,0-10K
+34,26-35,Female,26.41,Overweight,1,No,North-West,5385.34,0-10K
+47,46-55,Female,29.545,Overweight,1,No,North-West,8930.93,0-10K
+33,26-35,Female,32.9,"Obese Class 1",2,No,South-West,5375.04,0-10K
+51,46-55,Female,38.06,"Obese Class 2",0,Yes,South-East,44400.41,40K-50K
+49,46-55,Male,28.69,Overweight,3,No,North-West,10264.44,10K-20K
+31,26-35,Female,30.495,"Obese Class 1",3,No,North-East,6113.23,0-10K
+36,36-45,Female,27.74,Overweight,0,No,North-East,5469.01,0-10K
+18,18-25,Male,35.2,"Obese Class 2",1,No,South-East,1727.54,0-10K
+50,46-55,Female,23.54,"Normal Weight",2,No,South-East,10107.22,10K-20K
+43,36-45,Female,30.685,"Obese Class 1",2,No,North-West,8310.84,0-10K
+20,18-25,Male,40.47,"Obese Class 3",0,No,North-East,1984.45,0-10K
+24,18-25,Female,22.6,"Normal Weight",0,No,South-West,2457.5,0-10K
+60,55+,Male,28.9,Overweight,0,No,South-West,12146.97,10K-20K
+49,46-55,Female,22.61,"Normal Weight",1,No,North-West,9566.99,0-10K
+60,55+,Male,24.32,"Normal Weight",1,No,North-West,13112.6,10K-20K
+51,46-55,Female,36.67,"Obese Class 2",2,No,North-West,10848.13,10K-20K
+58,55+,Female,33.44,"Obese Class 1",0,No,North-West,12231.61,10K-20K
+51,46-55,Female,40.66,"Obese Class 3",0,No,North-East,9875.68,0-10K
+53,46-55,Male,36.6,"Obese Class 2",3,No,South-West,11264.54,10K-20K
+62,55+,Male,37.4,"Obese Class 2",0,No,South-West,12979.36,10K-20K
+19,18-25,Male,35.4,"Obese Class 2",0,No,South-West,1263.25,0-10K
+50,46-55,Female,27.075,Overweight,1,No,North-East,10106.13,10K-20K
+30,26-35,Female,39.05,"Obese Class 2",3,Yes,South-East,40932.43,40K-50K
+41,36-45,Male,28.405,Overweight,1,No,North-West,6664.69,0-10K
+29,26-35,Female,21.755,"Normal Weight",1,Yes,North-East,16657.72,10K-20K
+18,18-25,Female,40.28,"Obese Class 3",0,No,North-East,2217.6,0-10K
+41,36-45,Female,36.08,"Obese Class 2",1,No,South-East,6781.35,0-10K
+35,26-35,Male,24.42,"Normal Weight",3,Yes,South-East,19362,10K-20K
+53,46-55,Male,21.4,"Normal Weight",1,No,South-West,10065.41,10K-20K
+24,18-25,Female,30.1,"Obese Class 1",3,No,South-West,4234.93,0-10K
+48,46-55,Female,27.265,Overweight,1,No,North-East,9447.25,0-10K
+59,55+,Female,32.1,"Obese Class 1",3,No,South-West,14007.22,10K-20K
+49,46-55,Female,34.77,"Obese Class 1",1,No,North-West,9583.89,0-10K
+37,36-45,Female,38.39,"Obese Class 2",0,Yes,South-East,40419.02,40K-50K
+26,26-35,Male,23.7,"Normal Weight",2,No,South-West,3484.33,0-10K
+23,18-25,Male,31.73,"Obese Class 1",3,Yes,North-East,36189.1,30K-40K
+29,26-35,Male,35.5,"Obese Class 2",2,Yes,South-West,44585.46,40K-50K
+45,36-45,Male,24.035,"Normal Weight",2,No,North-East,8604.48,0-10K
+27,26-35,Male,29.15,Overweight,0,Yes,South-East,18246.5,10K-20K
+53,46-55,Male,34.105,"Obese Class 1",0,Yes,North-East,43254.42,40K-50K
+31,26-35,Female,26.62,Overweight,0,No,South-East,3757.84,0-10K
+50,46-55,Male,26.41,Overweight,0,No,North-West,8827.21,0-10K
+50,46-55,Female,30.115,"Obese Class 1",1,No,North-West,9910.36,0-10K
+34,26-35,Male,27,Overweight,2,No,South-West,11737.85,10K-20K
+19,18-25,Male,21.755,"Normal Weight",0,No,North-West,1627.28,0-10K
+47,46-55,Female,36,"Obese Class 2",1,No,South-West,8556.91,0-10K
+28,26-35,Male,30.875,"Obese Class 1",0,No,North-West,3062.51,0-10K
+37,36-45,Female,26.4,Overweight,0,Yes,South-East,19539.24,10K-20K
+21,18-25,Male,28.975,Overweight,0,No,North-West,1906.36,0-10K
+64,55+,Male,37.905,"Obese Class 2",0,No,North-West,14210.54,10K-20K
+58,55+,Female,22.77,"Normal Weight",0,No,South-East,11833.78,10K-20K
+24,18-25,Male,33.63,"Obese Class 1",4,No,North-East,17128.43,10K-20K
+31,26-35,Male,27.645,Overweight,2,No,North-East,5031.27,0-10K
+39,36-45,Female,22.8,"Normal Weight",3,No,North-East,7985.82,0-10K
+47,46-55,Female,27.83,Overweight,0,Yes,South-East,23065.42,20K-30K
+30,26-35,Male,37.43,"Obese Class 2",3,No,North-East,5428.73,0-10K
+18,18-25,Male,38.17,"Obese Class 2",0,Yes,South-East,36307.8,30K-40K
+22,18-25,Female,34.58,"Obese Class 1",2,No,North-East,3925.76,0-10K
+23,18-25,Male,35.2,"Obese Class 2",1,No,South-West,2416.96,0-10K
+33,26-35,Male,27.1,Overweight,1,Yes,South-West,19040.88,10K-20K
+27,26-35,Male,26.03,Overweight,0,No,North-East,3070.81,0-10K
+45,36-45,Female,25.175,Overweight,2,No,North-East,9095.07,0-10K
+57,55+,Female,31.825,"Obese Class 1",0,No,North-West,11842.62,10K-20K
+47,46-55,Male,32.3,"Obese Class 1",1,No,South-West,8062.76,0-10K
+42,36-45,Female,29,Overweight,1,No,South-West,7050.64,0-10K
+64,55+,Female,39.7,"Obese Class 2",0,No,South-West,14319.03,10K-20K
+38,36-45,Female,19.475,"Normal Weight",2,No,North-West,6933.24,0-10K
+61,55+,Male,36.1,"Obese Class 2",3,No,South-West,27941.29,20K-30K
+53,46-55,Female,26.7,Overweight,2,No,South-West,11150.78,10K-20K
+44,36-45,Female,36.48,"Obese Class 2",0,No,North-East,12797.21,10K-20K
+19,18-25,Female,28.88,Overweight,0,Yes,North-West,17748.51,10K-20K
+41,36-45,Male,34.2,"Obese Class 1",2,No,North-West,7261.74,0-10K
+51,46-55,Male,33.33,"Obese Class 1",3,No,South-East,10560.49,10K-20K
+40,36-45,Male,32.3,"Obese Class 1",2,No,North-West,6986.7,0-10K
+45,36-45,Male,39.805,"Obese Class 2",0,No,North-East,7448.4,0-10K
+35,26-35,Male,34.32,"Obese Class 1",3,No,South-East,5934.38,0-10K
+53,46-55,Male,28.88,Overweight,0,No,North-West,9869.81,0-10K
+30,26-35,Male,24.4,"Normal Weight",3,Yes,South-West,18259.22,10K-20K
+18,18-25,Male,41.14,"Obese Class 3",0,No,South-East,1146.8,0-10K
+51,46-55,Male,35.97,"Obese Class 2",1,No,South-East,9386.16,0-10K
+50,46-55,Female,27.6,Overweight,1,Yes,South-West,24520.26,20K-30K
+31,26-35,Female,29.26,Overweight,1,No,South-East,4350.51,0-10K
+35,26-35,Female,27.7,Overweight,3,No,South-West,6414.18,0-10K
+60,55+,Male,36.955,"Obese Class 2",0,No,North-East,12741.17,10K-20K
+21,18-25,Male,36.86,"Obese Class 2",0,No,North-West,1917.32,0-10K
+29,26-35,Male,22.515,"Normal Weight",3,No,North-East,5209.58,0-10K
+62,55+,Female,29.92,"Obese Class 3",0,No,South-East,13457.96,10K-20K
+39,36-45,Female,41.8,"Obese Class 3",0,No,South-East,5662.22,0-10K
+19,18-25,Male,27.6,Overweight,0,No,South-West,1252.41,0-10K
+22,18-25,Female,23.18,"Normal Weight",0,No,North-East,2731.91,0-10K
+53,46-55,Male,20.9,"Normal Weight",0,Yes,South-East,21195.82,20K-30K
+39,36-45,Female,31.92,"Obese Class 1",2,No,North-West,7209.49,0-10K
+27,26-35,Male,28.5,Overweight,0,Yes,North-West,18310.74,10K-20K
+30,26-35,Male,44.22,"Obese Class 3",2,No,South-East,4266.17,0-10K
+30,26-35,Female,22.895,"Normal Weight",1,No,North-East,4719.52,0-10K
+58,55+,Female,33.1,"Obese Class 1",0,No,South-West,11848.14,10K-20K
+33,26-35,Male,24.795,"Normal Weight",0,Yes,North-East,17904.53,10K-20K
+42,36-45,Female,26.18,Overweight,1,No,South-East,7046.72,0-10K
+64,55+,Female,35.97,"Obese Class 2",0,No,South-East,14313.85,10K-20K
+21,18-25,Male,22.3,"Normal Weight",1,No,South-West,2103.08,0-10K
+18,18-25,Female,42.24,"Obese Class 3",0,Yes,South-East,38792.69,30K-40K
+23,18-25,Male,26.51,Overweight,0,No,South-East,1815.88,0-10K
+45,36-45,Female,35.815,"Obese Class 2",0,No,North-West,7731.86,0-10K
+40,36-45,Female,41.42,"Obese Class 3",1,No,North-West,28476.73,20K-30K
+19,18-25,Female,36.575,"Obese Class 2",0,No,North-West,2136.88,0-10K
+18,18-25,Male,30.14,"Obese Class 1",0,No,South-East,1131.51,0-10K
+25,18-25,Male,25.84,Overweight,1,No,North-East,3309.79,0-10K
+46,46-55,Female,30.8,"Obese Class 1",3,No,South-West,9414.92,0-10K
+33,26-35,Female,42.94,"Obese Class 3",3,No,North-West,6360.99,0-10K
+54,46-55,Male,21.01,"Normal Weight",2,No,South-East,11013.71,10K-20K
+28,26-35,Male,22.515,"Normal Weight",2,No,North-East,4428.89,0-10K
+36,36-45,Male,34.43,"Obese Class 1",2,No,South-East,5584.31,0-10K
+20,18-25,Female,31.46,"Obese Class 1",0,No,South-East,1877.93,0-10K
+24,18-25,Female,24.225,"Normal Weight",0,No,North-West,2842.76,0-10K
+23,18-25,Male,37.1,"Obese Class 2",3,No,South-West,3597.6,0-10K
+47,46-55,Female,26.125,Overweight,1,Yes,North-East,23401.31,20K-30K
+33,26-35,Female,35.53,"Obese Class 2",0,Yes,North-West,55135.4,50K+
+45,36-45,Male,33.7,"Obese Class 1",1,No,South-West,7445.92,0-10K
+26,26-35,Male,17.67,Underweight,0,No,North-West,2680.95,0-10K
+18,18-25,Female,31.13,"Obese Class 1",0,No,South-East,1621.88,0-10K
+44,36-45,Female,29.81,Overweight,2,No,South-East,8219.2,0-10K
+60,55+,Male,24.32,"Normal Weight",0,No,North-West,12523.6,10K-20K
+64,55+,Female,31.825,"Obese Class 1",2,No,North-East,16069.08,10K-20K
+56,55+,Male,31.79,"Obese Class 1",2,Yes,South-East,43813.87,40K-50K
+36,36-45,Male,28.025,Overweight,1,Yes,North-East,20773.63,20K-30K
+41,36-45,Male,30.78,"Obese Class 1",3,Yes,North-East,39597.41,30K-40K
+39,36-45,Male,21.85,"Normal Weight",1,No,North-West,6117.49,0-10K
+63,55+,Male,33.1,"Obese Class 1",0,No,South-West,13393.76,10K-20K
+36,36-45,Female,25.84,Overweight,0,No,North-West,5266.37,0-10K
+28,26-35,Female,23.845,"Normal Weight",2,No,North-West,4719.74,0-10K
+58,55+,Male,34.39,"Obese Class 1",0,No,North-West,11743.93,10K-20K
+36,36-45,Male,33.82,"Obese Class 1",1,No,North-West,5377.46,0-10K
+42,36-45,Male,35.97,"Obese Class 2",2,No,South-East,7160.33,0-10K
+36,36-45,Male,31.5,"Obese Class 1",0,No,South-West,4402.23,0-10K
+56,55+,Female,28.31,Overweight,0,No,North-East,11657.72,10K-20K
+35,26-35,Female,23.465,"Normal Weight",2,No,North-East,6402.29,0-10K
+59,55+,Female,31.35,"Obese Class 1",0,No,North-West,12622.18,10K-20K
+21,18-25,Male,31.1,"Obese Class 1",0,No,South-West,1526.31,0-10K
+59,55+,Male,24.7,"Normal Weight",0,No,North-East,12323.94,10K-20K
+23,18-25,Female,32.78,"Obese Class 1",2,Yes,South-East,36021.01,30K-40K
+57,55+,Female,29.81,Overweight,0,Yes,South-East,27533.91,20K-30K
+53,46-55,Male,30.495,"Obese Class 1",0,No,North-East,10072.06,10K-20K
+60,55+,Female,32.45,"Obese Class 1",0,Yes,South-East,45008.96,40K-50K
+51,46-55,Female,34.2,"Obese Class 1",1,No,South-West,9872.7,0-10K
+23,18-25,Male,50.38,"Obese Class 3",1,No,South-East,2438.06,0-10K
+27,26-35,Female,24.1,"Normal Weight",0,No,South-West,2974.13,0-10K
+55,46-55,Male,32.775,"Obese Class 1",0,No,North-West,10601.63,10K-20K
+37,36-45,Female,30.78,"Obese Class 1",0,Yes,North-East,37270.15,30K-40K
+61,55+,Male,32.3,"Obese Class 1",2,No,North-West,14119.62,10K-20K
+46,46-55,Female,35.53,"Obese Class 2",0,Yes,North-East,42111.66,40K-50K
+53,46-55,Female,23.75,"Normal Weight",2,No,North-East,11729.68,10K-20K
+49,46-55,Female,23.845,"Normal Weight",3,Yes,North-East,24106.91,20K-30K
+20,18-25,Female,29.6,Overweight,0,No,South-West,1875.34,0-10K
+48,46-55,Female,33.11,"Obese Class 1",0,Yes,South-East,40974.16,40K-50K
+25,18-25,Male,24.13,"Normal Weight",0,Yes,North-West,15817.99,10K-20K
+25,18-25,Female,32.23,"Obese Class 1",1,No,South-East,18218.16,10K-20K
+57,55+,Male,28.1,Overweight,0,No,South-West,10965.45,10K-20K
+37,36-45,Female,47.6,"Obese Class 3",2,Yes,South-West,46113.51,40K-50K
+38,36-45,Female,28,Overweight,3,No,South-West,7151.09,0-10K
+55,46-55,Female,33.535,"Obese Class 1",2,No,North-West,12269.69,10K-20K
+36,36-45,Female,19.855,"Normal Weight",0,No,North-East,5458.05,0-10K
+51,46-55,Male,25.4,Overweight,0,No,South-West,8782.47,0-10K
+40,36-45,Male,29.9,Overweight,2,No,South-West,6600.36,0-10K
+18,18-25,Male,37.29,"Obese Class 2",0,No,South-East,1141.45,0-10K
+57,55+,Male,43.7,"Obese Class 3",1,No,South-West,11576.13,10K-20K
+61,55+,Male,23.655,"Normal Weight",0,No,North-East,13129.6,10K-20K
+25,18-25,Female,24.3,"Normal Weight",3,No,South-West,4391.65,0-10K
+50,46-55,Male,36.2,"Obese Class 2",0,No,South-West,8457.82,0-10K
+26,26-35,Female,29.48,Overweight,1,No,South-East,3392.37,0-10K
+42,36-45,Male,24.86,"Normal Weight",0,No,South-East,5966.89,0-10K
+43,36-45,Male,30.1,"Obese Class 1",1,No,South-West,6849.03,0-10K
+44,36-45,Male,21.85,"Normal Weight",3,No,North-East,8891.14,0-10K
+23,18-25,Female,28.12,Overweight,0,No,North-West,2690.11,0-10K
+49,46-55,Female,27.1,Overweight,1,No,South-West,26140.36,20K-30K
+33,26-35,Male,33.44,"Obese Class 1",5,No,South-East,6653.79,0-10K
+41,36-45,Male,28.8,Overweight,1,No,South-West,6282.24,0-10K
+37,36-45,Female,29.5,Overweight,2,No,South-West,6311.95,0-10K
+22,18-25,Male,34.8,"Obese Class 1",3,No,South-West,3443.06,0-10K
+23,18-25,Male,27.36,Overweight,1,No,North-West,2789.06,0-10K
+21,18-25,Female,22.135,"Normal Weight",0,No,North-East,2585.85,0-10K
+51,46-55,Female,37.05,"Obese Class 2",3,Yes,North-East,46255.11,40K-50K
+25,18-25,Male,26.695,Overweight,4,No,North-West,4877.98,0-10K
+32,26-35,Male,28.93,Overweight,1,Yes,South-East,19719.69,10K-20K
+57,55+,Male,28.975,Overweight,0,Yes,North-East,27218.44,20K-30K
+36,36-45,Female,30.02,"Obese Class 1",0,No,North-West,5272.18,0-10K
+22,18-25,Male,39.5,"Obese Class 2",0,No,South-West,1682.6,0-10K
+57,55+,Male,33.63,"Obese Class 1",1,No,North-West,11945.13,10K-20K
+64,55+,Female,26.885,Overweight,0,Yes,North-West,29330.98,20K-30K
+36,36-45,Female,29.04,Overweight,4,No,South-East,7243.81,0-10K
+54,46-55,Male,24.035,"Normal Weight",0,No,North-East,10422.92,10K-20K
+47,46-55,Male,38.94,"Obese Class 2",2,Yes,South-East,44202.65,40K-50K
+62,55+,Male,32.11,"Obese Class 1",0,No,North-East,13555,10K-20K
+61,55+,Female,44,"Obese Class 3",0,No,South-West,13063.88,10K-20K
+43,36-45,Female,20.045,"Normal Weight",2,Yes,North-East,19798.05,10K-20K
+19,18-25,Male,25.555,Overweight,1,No,North-West,2221.56,0-10K
+18,18-25,Female,40.26,"Obese Class 3",0,No,South-East,1634.57,0-10K
+19,18-25,Female,22.515,"Normal Weight",0,No,North-West,2117.34,0-10K
+49,46-55,Male,22.515,"Normal Weight",0,No,North-East,8688.86,0-10K
+60,55+,Male,40.92,"Obese Class 3",0,Yes,South-East,48673.56,40K-50K
+26,26-35,Male,27.265,Overweight,3,No,North-East,4661.29,0-10K
+49,46-55,Male,36.85,"Obese Class 2",0,No,South-East,8125.78,0-10K
+60,55+,Female,35.1,"Obese Class 2",0,No,South-West,12644.59,10K-20K
+26,26-35,Female,29.355,Overweight,2,No,North-East,4564.19,0-10K
+27,26-35,Male,32.585,"Obese Class 1",3,No,North-East,4846.92,0-10K
+44,36-45,Female,32.34,"Obese Class 1",1,No,South-East,7633.72,0-10K
+63,55+,Male,39.8,"Obese Class 2",3,No,South-West,15170.07,10K-20K
+32,26-35,Female,24.6,"Normal Weight",0,Yes,South-West,17496.31,10K-20K
+22,18-25,Male,28.31,Overweight,1,No,North-West,2639.04,0-10K
+18,18-25,Male,31.73,"Obese Class 1",0,Yes,North-East,33732.69,30K-40K
+59,55+,Female,26.695,Overweight,3,No,North-West,14382.71,10K-20K
+44,36-45,Female,27.5,Overweight,1,No,South-West,7626.99,0-10K
+33,26-35,Male,24.605,"Normal Weight",2,No,North-West,5257.51,0-10K
+24,18-25,Female,33.99,"Obese Class 1",0,No,South-East,2473.33,0-10K
+43,36-45,Female,26.885,Overweight,0,Yes,North-West,21774.32,20K-30K
+45,36-45,Male,22.895,"Normal Weight",0,Yes,North-East,35069.37,30K-40K
+61,55+,Female,28.2,Overweight,0,No,South-West,13041.92,10K-20K
+35,26-35,Female,34.21,"Obese Class 1",1,No,South-East,5245.23,0-10K
+62,55+,Female,25,Overweight,0,No,South-West,13451.12,10K-20K
+62,55+,Female,33.2,"Obese Class 1",0,No,South-West,13462.52,10K-20K
+38,36-45,Male,31,"Obese Class 1",1,No,South-West,5488.26,0-10K
+34,26-35,Male,35.815,"Obese Class 2",0,No,North-West,4320.41,0-10K
+43,36-45,Male,23.2,"Normal Weight",0,No,South-West,6250.44,0-10K
+50,46-55,Male,32.11,"Obese Class 1",2,No,North-East,25333.33,20K-30K
+19,18-25,Female,23.4,"Normal Weight",2,No,South-West,2913.57,0-10K
+57,55+,Female,20.1,"Normal Weight",1,No,South-West,12032.33,10K-20K
+62,55+,Female,39.16,"Obese Class 2",0,No,South-East,13470.8,10K-20K
+41,36-45,Male,34.21,"Obese Class 1",1,No,South-East,6289.75,0-10K
+26,26-35,Male,46.53,"Obese Class 3",1,No,South-East,2927.06,0-10K
+39,36-45,Female,32.5,"Obese Class 1",1,No,South-West,6238.3,0-10K
+46,46-55,Male,25.8,Overweight,5,No,South-West,10096.97,10K-20K
+45,36-45,Female,35.3,"Obese Class 2",0,No,South-West,7348.14,0-10K
+32,26-35,Male,37.18,"Obese Class 2",2,No,South-East,4673.39,0-10K
+59,55+,Female,27.5,Overweight,0,No,South-West,12233.83,10K-20K
+44,36-45,Male,29.735,Overweight,2,No,North-East,32108.66,30K-40K
+39,36-45,Female,24.225,"Normal Weight",5,No,North-West,8965.8,0-10K
+18,18-25,Male,26.18,Overweight,2,No,South-East,2304,0-10K
+53,46-55,Male,29.48,Overweight,0,No,South-East,9487.64,0-10K
+18,18-25,Male,23.21,"Normal Weight",0,No,South-East,1121.87,0-10K
+50,46-55,Female,46.09,"Obese Class 3",1,No,South-East,9549.57,0-10K
+18,18-25,Female,40.185,"Obese Class 3",0,No,North-East,2217.47,0-10K
+19,18-25,Male,22.61,"Normal Weight",0,No,North-West,1628.47,0-10K
+62,55+,Male,39.93,"Obese Class 3",0,No,South-East,12982.87,10K-20K
+56,55+,Female,35.8,"Obese Class 2",1,No,South-West,11674.13,10K-20K
+42,36-45,Male,35.8,"Obese Class 2",2,No,South-West,7160.09,0-10K
+37,36-45,Male,34.2,"Obese Class 1",1,Yes,North-East,39047.29,30K-40K
+42,36-45,Male,31.255,"Obese Class 1",0,No,North-West,6358.78,0-10K
+25,18-25,Male,29.7,Overweight,3,Yes,South-West,19933.46,10K-20K
+57,55+,Male,18.335,Underweight,0,No,North-East,11534.87,10K-20K
+51,46-55,Male,42.9,"Obese Class 3",2,Yes,South-East,47462.89,40K-50K
+30,26-35,Female,28.405,Overweight,1,No,North-West,4527.18,0-10K
+44,36-45,Male,30.2,"Obese Class 1",2,Yes,South-West,38998.55,30K-40K
+34,26-35,Male,27.835,Overweight,1,Yes,North-West,20009.63,20K-30K
+31,26-35,Male,39.49,"Obese Class 2",1,No,South-East,3875.73,0-10K
+54,46-55,Male,30.8,"Obese Class 1",1,Yes,South-East,41999.52,40K-50K
+24,18-25,Male,26.79,Overweight,1,No,North-West,12609.89,10K-20K
+43,36-45,Male,34.96,"Obese Class 3",1,Yes,North-East,41034.22,40K-50K
+48,46-55,Male,36.67,"Obese Class 2",1,No,North-West,28468.92,20K-30K
+19,18-25,Female,39.615,"Obese Class 2",1,No,North-West,2730.11,0-10K
+29,26-35,Female,25.9,Overweight,0,No,South-West,3353.28,0-10K
+63,55+,Female,35.2,"Obese Class 2",1,No,South-East,14474.68,10K-20K
+46,46-55,Male,24.795,"Normal Weight",3,No,North-East,9500.57,0-10K
+52,46-55,Male,36.765,"Obese Class 2",2,No,North-West,26467.1,20K-30K
+35,26-35,Male,27.1,Overweight,1,No,South-West,4746.34,0-10K
+51,46-55,Male,24.795,"Normal Weight",2,Yes,North-West,23967.38,20K-30K
+44,36-45,Male,25.365,Overweight,1,No,North-West,7518.03,0-10K
+21,18-25,Male,25.745,Overweight,2,No,North-East,3279.87,0-10K
+39,36-45,Female,34.32,"Obese Class 1",5,No,South-East,8596.83,0-10K
+50,46-55,Female,28.16,Overweight,3,No,South-East,10702.64,10K-20K
+34,26-35,Female,23.56,"Normal Weight",0,No,North-East,4992.38,0-10K
+22,18-25,Female,20.235,"Normal Weight",0,No,North-West,2527.82,0-10K
+19,18-25,Female,40.5,"Obese Class 3",0,No,South-West,1759.34,0-10K
+26,26-35,Male,35.42,"Obese Class 2",0,No,South-East,2322.62,0-10K
+29,26-35,Male,22.895,"Normal Weight",0,Yes,North-East,16138.76,10K-20K
+48,46-55,Male,40.15,"Obese Class 3",0,No,South-East,7804.16,0-10K
+26,26-35,Male,29.15,Overweight,1,No,South-East,2902.91,0-10K
+45,36-45,Female,39.995,"Obese Class 3",3,No,North-East,9704.67,0-10K
+36,36-45,Female,29.92,"Obese Class 3",0,No,South-East,4889.04,0-10K
+54,46-55,Male,25.46,Overweight,1,No,North-East,25517.11,20K-30K
+34,26-35,Male,21.375,"Normal Weight",0,No,North-East,4500.34,0-10K
+31,26-35,Male,25.9,Overweight,3,Yes,South-West,19199.94,10K-20K
+27,26-35,Female,30.59,"Obese Class 1",1,No,North-East,16796.41,10K-20K
+20,18-25,Male,30.115,"Obese Class 1",5,No,North-East,4915.06,0-10K
+44,36-45,Female,25.8,Overweight,1,No,South-West,7624.63,0-10K
+43,36-45,Male,30.115,"Obese Class 1",3,No,North-West,8410.05,0-10K
+45,36-45,Female,27.645,Overweight,1,No,North-West,28340.19,20K-30K
+34,26-35,Male,34.675,"Obese Class 1",0,No,North-East,4518.83,0-10K
+24,18-25,Female,20.52,"Normal Weight",0,Yes,North-East,14571.89,10K-20K
+26,26-35,Female,19.8,"Normal Weight",1,No,South-West,3378.91,0-10K
+38,36-45,Female,27.835,Overweight,2,No,North-East,7144.86,0-10K
+50,46-55,Female,31.6,"Obese Class 1",2,No,South-West,10118.42,10K-20K
+38,36-45,Male,28.27,Overweight,1,No,South-East,5484.47,0-10K
+27,26-35,Female,20.045,"Normal Weight",3,Yes,North-West,16420.49,10K-20K
+39,36-45,Female,23.275,"Normal Weight",3,No,North-East,7986.48,0-10K
+39,36-45,Female,34.1,"Obese Class 1",3,No,South-West,7418.52,0-10K
+63,55+,Female,36.85,"Obese Class 2",0,No,South-East,13887.97,10K-20K
+33,26-35,Female,36.29,"Obese Class 2",3,No,North-East,6551.75,0-10K
+36,36-45,Female,26.885,Overweight,0,No,North-West,5267.82,0-10K
+30,26-35,Male,22.99,"Normal Weight",2,Yes,North-West,17361.77,10K-20K
+24,18-25,Male,32.7,"Obese Class 1",0,Yes,South-West,34472.84,30K-40K
+24,18-25,Male,25.8,Overweight,0,No,South-West,1972.95,0-10K
+48,46-55,Male,29.6,Overweight,0,No,South-West,21232.18,20K-30K
+47,46-55,Male,19.19,"Normal Weight",1,No,North-East,8627.54,0-10K
+29,26-35,Male,31.73,"Obese Class 1",2,No,North-West,4433.39,0-10K
+28,26-35,Male,29.26,Overweight,2,No,North-East,4438.26,0-10K
+47,46-55,Male,28.215,Overweight,3,Yes,North-West,24915.22,20K-30K
+25,18-25,Male,24.985,"Obese Class 3",2,No,North-East,23241.47,20K-30K
+51,46-55,Male,27.74,Overweight,1,No,North-East,9957.72,0-10K
+48,46-55,Female,22.8,"Normal Weight",0,No,South-West,8269.04,0-10K
+43,36-45,Male,20.13,"Normal Weight",2,Yes,South-East,18767.74,10K-20K
+61,55+,Female,33.33,"Obese Class 1",4,No,South-East,36580.28,30K-40K
+48,46-55,Male,32.3,"Obese Class 1",1,No,North-West,8765.25,0-10K
+38,36-45,Female,27.6,Overweight,0,No,South-West,5383.54,0-10K
+59,55+,Male,25.46,Overweight,0,No,North-West,12124.99,10K-20K
+19,18-25,Female,24.605,"Normal Weight",1,No,North-West,2709.24,0-10K
+26,26-35,Female,34.2,"Obese Class 1",2,No,South-West,3987.93,0-10K
+54,46-55,Female,35.815,"Obese Class 2",3,No,North-West,12495.29,10K-20K
+21,18-25,Female,32.68,"Obese Class 1",2,No,North-West,26018.95,20K-30K
+51,46-55,Male,37,"Obese Class 2",0,No,South-West,8798.59,0-10K
+22,18-25,Female,31.02,"Obese Class 1",3,Yes,South-East,35595.59,30K-40K
+47,46-55,Male,36.08,"Obese Class 2",1,Yes,South-East,42211.14,40K-50K
+18,18-25,Male,23.32,"Normal Weight",1,No,South-East,1711.03,0-10K
+47,46-55,Female,45.32,"Obese Class 3",1,No,South-East,8569.86,0-10K
+21,18-25,Female,34.6,"Obese Class 1",0,No,South-West,2020.18,0-10K
+19,18-25,Male,26.03,Overweight,1,Yes,North-West,16450.89,10K-20K
+23,18-25,Male,18.715,"Normal Weight",0,No,North-West,21595.38,20K-30K
+54,46-55,Male,31.6,"Obese Class 1",0,No,South-West,9850.43,0-10K
+37,36-45,Female,17.29,Underweight,2,No,North-East,6877.98,0-10K
+46,46-55,Female,23.655,"Normal Weight",1,Yes,North-West,21677.28,20K-30K
+55,46-55,Female,35.2,"Obese Class 2",0,Yes,South-East,44423.8,40K-50K
+30,26-35,Female,27.93,Overweight,0,No,North-East,4137.52,0-10K
+18,18-25,Male,21.565,"Normal Weight",0,Yes,North-East,13747.87,10K-20K
+61,55+,Male,38.38,"Obese Class 2",0,No,North-West,12950.07,10K-20K
+54,46-55,Female,23,"Normal Weight",3,No,South-West,12094.48,10K-20K
+22,18-25,Male,37.07,"Obese Class 2",2,Yes,South-East,37484.45,30K-40K
+45,36-45,Female,30.495,"Obese Class 1",1,Yes,North-West,39725.52,30K-40K
+22,18-25,Male,28.88,Overweight,0,No,North-East,2250.84,0-10K
+19,18-25,Male,27.265,Overweight,2,No,North-West,22493.66,20K-30K
+35,26-35,Female,28.025,Overweight,0,Yes,North-West,20234.85,20K-30K
+18,18-25,Male,23.085,"Normal Weight",0,No,North-East,1704.7,0-10K
+20,18-25,Male,30.685,"Obese Class 1",0,Yes,North-East,33475.82,30K-40K
+28,26-35,Female,25.8,Overweight,0,No,South-West,3161.45,0-10K
+55,46-55,Male,35.245,"Obese Class 2",1,No,North-East,11394.07,10K-20K
+43,36-45,Female,24.7,"Normal Weight",2,Yes,North-West,21880.82,20K-30K
+43,36-45,Female,25.08,Overweight,0,No,North-East,7325.05,0-10K
+22,18-25,Male,52.58,"Obese Class 3",1,Yes,South-East,44501.4,40K-50K
+25,18-25,Female,22.515,"Normal Weight",1,No,North-West,3594.17,0-10K
+49,46-55,Male,30.9,"Obese Class 1",0,Yes,South-West,39727.61,30K-40K
+44,36-45,Female,36.955,"Obese Class 2",1,No,North-West,8023.14,0-10K
+64,55+,Male,26.41,Overweight,0,No,North-East,14394.56,10K-20K
+49,46-55,Male,29.83,Overweight,1,No,North-East,9288.03,0-10K
+47,46-55,Male,29.8,Overweight,3,Yes,South-West,25309.49,20K-30K
+27,26-35,Female,21.47,"Normal Weight",0,No,North-West,3353.47,0-10K
+55,46-55,Male,27.645,Overweight,0,No,North-West,10594.5,10K-20K
+48,46-55,Female,28.9,Overweight,0,No,South-West,8277.52,0-10K
+45,36-45,Female,31.79,"Obese Class 1",0,No,South-East,17929.3,10K-20K
+24,18-25,Female,39.49,"Obese Class 2",0,No,South-East,2480.98,0-10K
+32,26-35,Male,33.82,"Obese Class 1",1,No,North-West,4462.72,0-10K
+24,18-25,Male,32.01,"Obese Class 1",0,No,South-East,1981.58,0-10K
+57,55+,Male,27.94,Overweight,1,No,South-East,11554.22,10K-20K
+59,55+,Male,41.14,"Obese Class 3",1,Yes,South-East,48970.25,40K-50K
+36,36-45,Male,28.595,Overweight,3,No,North-West,6548.2,0-10K
+29,26-35,Female,25.6,Overweight,4,No,South-West,5708.87,0-10K
+42,36-45,Female,25.3,Overweight,1,No,South-West,7045.5,0-10K
+48,46-55,Male,37.29,"Obese Class 2",2,No,South-East,8978.19,0-10K
+39,36-45,Male,42.655,"Obese Class 3",0,No,North-East,5757.41,0-10K
+63,55+,Male,21.66,"Normal Weight",1,No,North-West,14349.85,10K-20K
+54,46-55,Female,31.9,"Obese Class 1",1,No,South-East,10928.85,10K-20K
+37,36-45,Male,37.07,"Obese Class 2",1,Yes,South-East,39871.7,30K-40K
+63,55+,Male,31.445,"Obese Class 1",0,No,North-East,13974.46,10K-20K
+21,18-25,Male,31.255,"Obese Class 1",0,No,North-West,1909.53,0-10K
+54,46-55,Female,28.88,Overweight,2,No,North-East,12096.65,10K-20K
+60,55+,Female,18.335,Underweight,0,No,North-East,13204.29,10K-20K
+32,26-35,Female,29.59,Overweight,1,No,South-East,4562.84,0-10K
+47,46-55,Female,32,"Obese Class 1",1,No,South-West,8551.35,0-10K
+21,18-25,Male,26.03,Overweight,0,No,North-East,2102.26,0-10K
+28,26-35,Male,31.68,"Obese Class 1",0,Yes,South-East,34672.15,30K-40K
+63,55+,Male,33.66,"Obese Class 1",3,No,South-East,15161.53,10K-20K
+18,18-25,Male,21.78,"Normal Weight",2,No,South-East,11884.05,10K-20K
+32,26-35,Male,27.835,Overweight,1,No,North-West,4454.4,0-10K
+38,36-45,Male,19.95,"Normal Weight",1,No,North-West,5855.9,0-10K
+32,26-35,Male,31.5,"Obese Class 1",1,No,South-West,4076.5,0-10K
+62,55+,Female,30.495,"Obese Class 1",2,No,North-West,15019.76,10K-20K
+39,36-45,Female,18.3,Underweight,5,Yes,South-West,19023.26,10K-20K
+55,46-55,Male,28.975,Overweight,0,No,North-East,10796.35,10K-20K
+57,55+,Male,31.54,"Obese Class 1",0,No,North-West,11353.23,10K-20K
+52,46-55,Male,47.74,"Obese Class 3",1,No,South-East,9748.91,0-10K
+56,55+,Male,22.1,"Normal Weight",0,No,South-West,10577.09,10K-20K
+47,46-55,Male,36.19,"Obese Class 2",0,Yes,South-East,41676.08,40K-50K
+55,46-55,Female,29.83,Overweight,0,No,North-East,11286.54,10K-20K
+23,18-25,Male,32.7,"Obese Class 1",3,No,South-West,3591.48,0-10K
+22,18-25,Female,30.4,"Obese Class 1",0,Yes,North-West,33907.55,30K-40K
+50,46-55,Female,33.7,"Obese Class 1",4,No,South-West,11299.34,10K-20K
+18,18-25,Female,31.35,"Obese Class 1",4,No,North-East,4561.19,0-10K
+51,46-55,Female,34.96,"Obese Class 3",2,Yes,North-East,44641.2,40K-50K
+22,18-25,Male,33.77,"Obese Class 1",0,No,South-East,1674.63,0-10K
+52,46-55,Female,30.875,"Obese Class 1",0,No,North-East,23045.57,20K-30K
+25,18-25,Female,33.99,"Obese Class 1",1,No,South-East,3227.12,0-10K
+33,26-35,Female,19.095,"Normal Weight",2,Yes,North-East,16776.3,10K-20K
+53,46-55,Male,28.6,Overweight,3,No,South-West,11253.42,10K-20K
+29,26-35,Male,38.94,"Obese Class 2",1,No,South-East,3471.41,0-10K
+58,55+,Male,36.08,"Obese Class 2",0,No,South-East,11363.28,10K-20K
+37,36-45,Male,29.8,Overweight,0,No,South-West,20420.6,20K-30K
+54,46-55,Female,31.24,"Obese Class 1",0,No,South-East,10338.93,10K-20K
+49,46-55,Female,29.925,"Obese Class 3",0,No,North-West,8988.16,0-10K
+50,46-55,Female,26.22,Overweight,2,No,North-West,10493.95,10K-20K
+26,26-35,Male,30,"Obese Class 1",1,No,South-West,2904.09,0-10K
+45,36-45,Male,20.35,"Normal Weight",3,No,South-East,8605.36,0-10K
+54,46-55,Female,32.3,"Obese Class 1",1,No,North-East,11512.4,10K-20K
+38,36-45,Male,38.39,"Obese Class 2",3,Yes,South-East,41949.24,40K-50K
+48,46-55,Female,25.85,Overweight,3,Yes,South-East,24180.93,20K-30K
+28,26-35,Female,26.315,Overweight,3,No,North-West,5312.17,0-10K
+23,18-25,Male,24.51,"Normal Weight",0,No,North-East,2396.1,0-10K
+55,46-55,Male,32.67,"Obese Class 1",1,No,South-East,10807.49,10K-20K
+41,36-45,Male,29.64,Overweight,5,No,North-East,9222.4,0-10K
+25,18-25,Male,33.33,"Obese Class 1",2,Yes,South-East,36124.57,30K-40K
+33,26-35,Male,35.75,"Obese Class 2",1,Yes,South-East,38282.75,30K-40K
+30,26-35,Female,19.95,"Normal Weight",3,No,North-West,5693.43,0-10K
+23,18-25,Female,31.4,"Obese Class 1",0,Yes,South-West,34166.27,30K-40K
+46,46-55,Male,38.17,"Obese Class 2",2,No,South-East,8347.16,0-10K
+53,46-55,Female,36.86,"Obese Class 2",3,Yes,North-West,46661.44,40K-50K
+27,26-35,Female,32.395,"Obese Class 1",1,No,North-East,18903.49,10K-20K
+23,18-25,Female,42.75,"Obese Class 3",1,Yes,North-East,40904.2,40K-50K
+63,55+,Female,25.08,Overweight,0,No,North-West,14254.61,10K-20K
+55,46-55,Male,29.9,Overweight,0,No,South-West,10214.64,10K-20K
+35,26-35,Female,35.86,"Obese Class 2",2,No,South-East,5836.52,0-10K
+34,26-35,Male,32.8,"Obese Class 1",1,No,South-West,14358.36,10K-20K
+19,18-25,Female,18.6,"Normal Weight",0,No,South-West,1728.9,0-10K
+39,36-45,Female,23.87,"Normal Weight",5,No,South-East,8582.3,0-10K
+27,26-35,Male,45.9,"Obese Class 3",2,No,South-West,3693.43,0-10K
+57,55+,Male,40.28,"Obese Class 3",0,No,North-East,20709.02,20K-30K
+52,46-55,Female,18.335,Underweight,0,No,North-West,9991.04,0-10K
+28,26-35,Male,33.82,"Obese Class 1",0,No,North-West,19673.34,10K-20K
+50,46-55,Female,28.12,Overweight,3,No,North-West,11085.59,10K-20K
+44,36-45,Female,25,Overweight,1,No,South-West,7623.52,0-10K
+26,26-35,Female,22.23,"Normal Weight",0,No,North-West,3176.29,0-10K
+33,26-35,Male,30.25,"Obese Class 1",0,No,South-East,3704.35,0-10K
+19,18-25,Female,32.49,"Obese Class 1",0,Yes,North-West,36898.73,30K-40K
+50,46-55,Male,37.07,"Obese Class 2",1,No,South-East,9048.03,0-10K
+41,36-45,Female,32.6,"Obese Class 1",3,No,South-West,7954.52,0-10K
+52,46-55,Female,24.86,"Normal Weight",0,No,South-East,27117.99,20K-30K
+39,36-45,Male,32.34,"Obese Class 1",2,No,South-East,6338.08,0-10K
+50,46-55,Male,32.3,"Obese Class 1",2,No,South-West,9630.4,0-10K
+52,46-55,Male,32.775,"Obese Class 1",3,No,North-West,11289.11,10K-20K
+60,55+,Male,32.8,"Obese Class 1",0,Yes,South-West,52590.83,50K+
+20,18-25,Female,31.92,"Obese Class 1",0,No,North-West,2261.57,0-10K
+55,46-55,Male,21.5,"Normal Weight",1,No,South-West,10791.96,10K-20K
+42,36-45,Male,34.1,"Obese Class 1",0,No,South-West,5979.73,0-10K
+18,18-25,Female,30.305,"Obese Class 1",0,No,North-East,2203.74,0-10K
+58,55+,Female,36.48,"Obese Class 2",0,No,North-West,12235.84,10K-20K
+43,36-45,Female,32.56,"Obese Class 1",3,Yes,South-East,40941.29,40K-50K
+35,26-35,Female,35.815,"Obese Class 2",1,No,North-West,5630.46,0-10K
+48,46-55,Female,27.93,Overweight,4,No,North-West,11015.17,10K-20K
+36,36-45,Female,22.135,"Normal Weight",3,No,North-East,7228.22,0-10K
+19,18-25,Male,44.88,"Obese Class 3",0,Yes,South-East,39722.75,30K-40K
+23,18-25,Female,23.18,"Normal Weight",2,No,North-West,14426.07,10K-20K
+20,18-25,Female,30.59,"Obese Class 1",0,No,North-East,2459.72,0-10K
+32,26-35,Female,41.1,"Obese Class 3",0,No,South-West,3989.84,0-10K
+43,36-45,Female,34.58,"Obese Class 1",1,No,North-West,7727.25,0-10K
+34,26-35,Male,42.13,"Obese Class 3",2,No,South-East,5124.19,0-10K
+30,26-35,Male,38.83,"Obese Class 2",1,No,South-East,18963.17,10K-20K
+18,18-25,Female,28.215,Overweight,0,No,North-East,2200.83,0-10K
+41,36-45,Female,28.31,Overweight,1,No,North-West,7153.55,0-10K
+35,26-35,Female,26.125,Overweight,0,No,North-East,5227.99,0-10K
+57,55+,Male,40.37,"Obese Class 3",0,No,South-East,10982.5,10K-20K
+29,26-35,Female,24.6,"Normal Weight",2,No,South-West,4529.48,0-10K
+32,26-35,Male,35.2,"Obese Class 2",2,No,South-West,4670.64,0-10K
+37,36-45,Female,34.105,"Obese Class 1",1,No,North-West,6112.35,0-10K
+18,18-25,Male,27.36,Overweight,1,Yes,North-East,17178.68,10K-20K
+43,36-45,Female,26.7,Overweight,2,Yes,South-West,22478.6,20K-30K
+56,55+,Female,41.91,"Obese Class 3",0,No,South-East,11093.62,10K-20K
+38,36-45,Male,29.26,Overweight,2,No,North-West,6457.84,0-10K
+29,26-35,Male,32.11,"Obese Class 1",2,No,North-West,4433.92,0-10K
+22,18-25,Female,27.1,Overweight,0,No,South-West,2154.36,0-10K
+52,46-55,Female,24.13,"Normal Weight",1,Yes,North-West,23887.66,20K-30K
+40,36-45,Female,27.4,Overweight,1,No,South-West,6496.89,0-10K
+23,18-25,Female,34.865,"Obese Class 1",0,No,North-East,2899.49,0-10K
+31,26-35,Male,29.81,Overweight,0,Yes,South-East,19350.37,10K-20K
+42,36-45,Female,41.325,"Obese Class 3",1,No,North-East,7650.77,0-10K
+24,18-25,Female,29.925,"Obese Class 3",0,No,North-West,2850.68,0-10K
+25,18-25,Female,30.3,"Obese Class 1",0,No,South-West,2632.99,0-10K
+48,46-55,Female,27.36,Overweight,1,No,North-East,9447.38,0-10K
+23,18-25,Female,28.49,Overweight,1,Yes,South-East,18328.24,10K-20K
+45,36-45,Male,23.56,"Normal Weight",2,No,North-East,8603.82,0-10K
+20,18-25,Male,35.625,"Obese Class 2",3,Yes,North-West,37465.34,30K-40K
+62,55+,Female,32.68,"Obese Class 1",0,No,North-West,13844.8,10K-20K
+43,36-45,Female,25.27,Overweight,1,Yes,North-East,21771.34,20K-30K
+23,18-25,Female,28,Overweight,0,No,South-West,13126.68,10K-20K
+31,26-35,Female,32.775,"Obese Class 1",2,No,North-West,5327.4,0-10K
+41,36-45,Female,21.755,"Normal Weight",1,No,North-East,13725.47,10K-20K
+58,55+,Female,32.395,"Obese Class 1",1,No,North-East,13019.16,10K-20K
+48,46-55,Female,36.575,"Obese Class 2",0,No,North-West,8671.19,0-10K
+31,26-35,Female,21.755,"Normal Weight",0,No,North-West,4134.08,0-10K
+19,18-25,Female,27.93,Overweight,3,No,North-West,18838.7,10K-20K
+19,18-25,Female,30.02,"Obese Class 1",0,Yes,North-West,33307.55,30K-40K
+41,36-45,Male,33.55,"Obese Class 1",0,No,South-East,5699.84,0-10K
+40,36-45,Male,29.355,Overweight,1,No,North-West,6393.6,0-10K
+31,26-35,Female,25.8,Overweight,2,No,South-West,4934.7,0-10K
+37,36-45,Male,24.32,"Normal Weight",2,No,North-West,6198.75,0-10K
+46,46-55,Male,40.375,"Obese Class 3",2,No,North-West,8733.23,0-10K
+22,18-25,Male,32.11,"Obese Class 1",0,No,North-West,2055.32,0-10K
+51,46-55,Male,32.3,"Obese Class 1",1,No,North-East,9964.06,0-10K
+18,18-25,Female,27.28,Overweight,3,Yes,South-East,18223.45,10K-20K
+35,26-35,Male,17.86,Underweight,1,No,North-West,5116.5,0-10K
+59,55+,Female,34.8,"Obese Class 1",2,No,South-West,36910.61,30K-40K
+36,36-45,Male,33.4,"Obese Class 1",2,Yes,South-West,38415.47,30K-40K
+37,36-45,Female,25.555,Overweight,1,Yes,North-East,20296.86,20K-30K
+59,55+,Male,37.1,"Obese Class 2",1,No,South-West,12347.17,10K-20K
+36,36-45,Male,30.875,"Obese Class 1",1,No,North-West,5373.36,0-10K
+39,36-45,Male,34.1,"Obese Class 1",2,No,South-East,23563.02,20K-30K
+18,18-25,Male,21.47,"Normal Weight",0,No,North-East,1702.46,0-10K
+52,46-55,Female,33.3,"Obese Class 1",2,No,South-West,10806.84,10K-20K
+27,26-35,Female,31.255,"Obese Class 1",1,No,North-West,3956.07,0-10K
+18,18-25,Male,39.14,"Obese Class 2",0,No,North-East,12890.06,10K-20K
+40,36-45,Male,25.08,Overweight,0,No,South-East,5415.66,0-10K
+29,26-35,Male,37.29,"Obese Class 2",2,No,South-East,4058.12,0-10K
+46,46-55,Female,34.6,"Obese Class 1",1,Yes,South-West,41661.6,40K-50K
+38,36-45,Female,30.21,"Obese Class 1",3,No,North-West,7537.16,0-10K
+30,26-35,Female,21.945,"Normal Weight",1,No,North-East,4718.2,0-10K
+40,36-45,Male,24.97,"Obese Class 3",2,No,South-East,6593.51,0-10K
+50,46-55,Male,25.3,Overweight,0,No,South-East,8442.67,0-10K
+20,18-25,Female,24.42,"Normal Weight",0,Yes,South-East,26125.67,20K-30K
+41,36-45,Male,23.94,"Normal Weight",1,No,North-East,6858.48,0-10K
+33,26-35,Female,39.82,"Obese Class 2",1,No,South-East,4795.66,0-10K
+38,36-45,Male,16.815,Underweight,2,No,North-East,6640.54,0-10K
+42,36-45,Male,37.18,"Obese Class 2",2,No,South-East,7162.01,0-10K
+56,55+,Male,34.43,"Obese Class 1",0,No,South-East,10594.23,10K-20K
+58,55+,Male,30.305,"Obese Class 1",0,No,North-East,11938.26,10K-20K
+52,46-55,Male,34.485,"Obese Class 1",3,Yes,North-West,60021.4,50K+
+20,18-25,Female,21.8,"Normal Weight",0,Yes,South-West,20167.34,20K-30K
+54,46-55,Female,24.605,"Normal Weight",3,No,North-West,12479.71,10K-20K
+58,55+,Male,23.3,"Normal Weight",0,No,South-West,11345.52,10K-20K
+45,36-45,Female,27.83,Overweight,2,No,South-East,8515.76,0-10K
+26,26-35,Male,31.065,"Obese Class 1",0,No,North-West,2699.57,0-10K
+63,55+,Female,21.66,"Normal Weight",0,No,North-East,14449.85,10K-20K
+58,55+,Female,28.215,Overweight,0,No,North-West,12224.35,10K-20K
+37,36-45,Male,22.705,"Normal Weight",3,No,North-East,6985.51,0-10K
+25,18-25,Female,42.13,"Obese Class 3",1,No,South-East,3238.44,0-10K
+52,46-55,Male,41.8,"Obese Class 3",2,Yes,South-East,47269.85,40K-50K
+64,55+,Male,36.96,"Obese Class 2",2,Yes,South-East,49577.66,40K-50K
+22,18-25,Female,21.28,"Normal Weight",3,No,North-West,4296.27,0-10K
+28,26-35,Female,33.11,"Obese Class 1",0,No,South-East,3171.61,0-10K
+18,18-25,Male,33.33,"Obese Class 1",0,No,South-East,1135.94,0-10K
+28,26-35,Male,24.3,"Normal Weight",5,No,South-West,5615.37,0-10K
+45,36-45,Female,25.7,Overweight,3,No,South-West,9101.8,0-10K
+33,26-35,Male,29.4,Overweight,4,No,South-West,6059.17,0-10K
+18,18-25,Female,39.82,"Obese Class 2",0,No,South-East,1633.96,0-10K
+32,26-35,Male,33.63,"Obese Class 1",1,Yes,North-East,37607.53,30K-40K
+24,18-25,Male,29.83,Overweight,0,Yes,North-East,18648.42,10K-20K
+19,18-25,Male,19.8,"Normal Weight",0,No,South-West,1241.56,0-10K
+20,18-25,Male,27.3,Overweight,0,Yes,South-West,16232.85,10K-20K
+40,36-45,Female,29.3,Overweight,4,No,South-West,15828.82,10K-20K
+34,26-35,Female,27.72,Overweight,0,No,South-East,4415.16,0-10K
+42,36-45,Female,37.9,"Obese Class 2",0,No,South-West,6474.01,0-10K
+51,46-55,Female,36.385,"Obese Class 2",3,No,North-West,11436.74,10K-20K
+54,46-55,Female,27.645,Overweight,1,No,North-West,11305.93,10K-20K
+55,46-55,Male,37.715,"Obese Class 2",3,No,North-West,30063.58,30K-40K
+52,46-55,Female,23.18,"Normal Weight",0,No,North-East,10197.77,10K-20K
+32,26-35,Female,20.52,"Normal Weight",0,No,North-East,4544.23,0-10K
+28,26-35,Male,37.1,"Obese Class 2",1,No,South-West,3277.16,0-10K
+41,36-45,Female,28.05,Overweight,1,No,South-East,6770.19,0-10K
+43,36-45,Female,29.9,Overweight,1,No,South-West,7337.75,0-10K
+49,46-55,Female,33.345,"Obese Class 1",2,No,North-East,10370.91,10K-20K
+64,55+,Male,23.76,"Normal Weight",0,Yes,South-East,26926.51,20K-30K
+55,46-55,Female,30.5,"Obese Class 1",0,No,South-West,10704.47,10K-20K
+24,18-25,Male,31.065,"Obese Class 1",0,Yes,North-East,34254.05,30K-40K
+20,18-25,Female,33.3,"Obese Class 1",0,No,South-West,1880.49,0-10K
+45,36-45,Male,27.5,Overweight,3,No,South-West,8615.3,0-10K
+26,26-35,Male,33.915,"Obese Class 1",1,No,North-West,3292.53,0-10K
+25,18-25,Female,34.485,"Obese Class 1",0,No,North-West,3021.81,0-10K
+43,36-45,Male,25.52,Overweight,5,No,South-East,14478.33,10K-20K
+35,26-35,Male,27.61,Overweight,1,No,South-East,4747.05,0-10K
+26,26-35,Male,27.06,Overweight,0,Yes,South-East,17043.34,10K-20K
+57,55+,Male,23.7,"Normal Weight",0,No,South-West,10959.33,10K-20K
+22,18-25,Female,30.4,"Obese Class 1",0,No,North-East,2741.95,0-10K
+32,26-35,Female,29.735,Overweight,0,No,North-West,4357.04,0-10K
+39,36-45,Male,29.925,"Obese Class 3",1,Yes,North-East,22462.04,20K-30K
+25,18-25,Female,26.79,Overweight,2,No,North-West,4189.11,0-10K
+48,46-55,Female,33.33,"Obese Class 1",0,No,South-East,8283.68,0-10K
+47,46-55,Female,27.645,Overweight,2,Yes,North-West,24535.7,20K-30K
+18,18-25,Female,21.66,"Normal Weight",0,Yes,North-East,14283.46,10K-20K
+18,18-25,Male,30.03,"Obese Class 1",1,No,South-East,1720.35,0-10K
+61,55+,Male,36.3,"Obese Class 2",1,Yes,South-West,47403.88,40K-50K
+47,46-55,Female,24.32,"Normal Weight",0,No,North-East,8534.67,0-10K
+28,26-35,Female,17.29,Underweight,0,No,North-East,3732.63,0-10K
+36,36-45,Female,25.9,Overweight,1,No,South-West,5472.45,0-10K
+20,18-25,Male,39.4,"Obese Class 2",2,Yes,South-West,38344.57,30K-40K
+44,36-45,Male,34.32,"Obese Class 1",1,No,South-East,7147.47,0-10K
+38,36-45,Female,19.95,"Normal Weight",2,No,North-East,7133.9,0-10K
+19,18-25,Male,34.9,"Obese Class 1",0,Yes,South-West,34828.65,30K-40K
+21,18-25,Male,23.21,"Normal Weight",0,No,South-East,1515.34,0-10K
+46,46-55,Male,25.745,Overweight,3,No,North-West,9301.89,0-10K
+58,55+,Male,25.175,Overweight,0,No,North-East,11931.13,10K-20K
+20,18-25,Male,22,"Normal Weight",1,No,South-West,1964.78,0-10K
+18,18-25,Male,26.125,Overweight,0,No,North-East,1708.93,0-10K
+28,26-35,Female,26.51,Overweight,2,No,South-East,4340.44,0-10K
+33,26-35,Male,27.455,Overweight,2,No,North-West,5261.47,0-10K
+19,18-25,Female,25.745,Overweight,1,No,North-West,2710.83,0-10K
+45,36-45,Male,30.36,"Obese Class 1",0,Yes,South-East,62592.87,50K+
+62,55+,Male,30.875,"Obese Class 1",3,Yes,North-West,46718.16,40K-50K
+25,18-25,Female,20.8,"Normal Weight",1,No,South-West,3208.79,0-10K
+43,36-45,Male,27.8,Overweight,0,Yes,South-West,37829.72,30K-40K
+42,36-45,Male,24.605,"Normal Weight",2,Yes,North-East,21259.38,20K-30K
+24,18-25,Female,27.72,Overweight,0,No,South-East,2464.62,0-10K
+29,26-35,Female,21.85,"Normal Weight",0,Yes,North-East,16115.3,10K-20K
+32,26-35,Male,28.12,Overweight,4,Yes,North-West,21472.48,20K-30K
+25,18-25,Female,30.2,"Obese Class 1",0,Yes,South-West,33900.65,30K-40K
+41,36-45,Male,32.2,"Obese Class 1",2,No,South-West,6875.96,0-10K
+42,36-45,Male,26.315,Overweight,1,No,North-West,6940.91,0-10K
+33,26-35,Female,26.695,Overweight,0,No,North-West,4571.41,0-10K
+34,26-35,Male,42.9,"Obese Class 3",1,No,South-West,4536.26,0-10K
+19,18-25,Female,34.7,"Obese Class 1",2,Yes,South-West,36397.58,30K-40K
+30,26-35,Female,23.655,"Normal Weight",3,Yes,North-West,18765.88,10K-20K
+18,18-25,Male,28.31,Overweight,1,No,North-East,11272.33,10K-20K
+19,18-25,Female,20.6,"Normal Weight",0,No,South-West,1731.68,0-10K
+18,18-25,Male,53.13,"Obese Class 3",0,No,South-East,1163.46,0-10K
+35,26-35,Male,39.71,"Obese Class 2",4,No,North-East,19496.72,10K-20K
+39,36-45,Female,26.315,Overweight,2,No,North-West,7201.7,0-10K
+31,26-35,Male,31.065,"Obese Class 1",3,No,North-West,5425.02,0-10K
+62,55+,Male,26.695,Overweight,0,Yes,North-East,28101.33,20K-30K
+62,55+,Male,38.83,"Obese Class 2",0,No,South-East,12981.35,10K-20K
+42,36-45,Female,40.37,"Obese Class 3",2,Yes,South-East,43896.38,40K-50K
+31,26-35,Male,25.935,Overweight,1,No,North-West,4239.89,0-10K
+61,55+,Male,33.535,"Obese Class 1",0,No,North-East,13143.34,10K-20K
+42,36-45,Female,32.87,"Obese Class 1",0,No,North-East,7050.02,0-10K
+51,46-55,Male,30.03,"Obese Class 1",1,No,South-East,9377.9,0-10K
+23,18-25,Female,24.225,"Normal Weight",2,No,North-East,22395.74,20K-30K
+52,46-55,Male,38.6,"Obese Class 2",2,No,South-West,10325.21,10K-20K
+57,55+,Female,25.74,Overweight,2,No,South-East,12629.17,10K-20K
+23,18-25,Female,33.4,"Obese Class 1",0,No,South-West,10795.94,10K-20K
+52,46-55,Female,44.7,"Obese Class 3",3,No,South-West,11411.68,10K-20K
+50,46-55,Male,30.97,"Obese Class 1",3,No,North-West,10600.55,10K-20K
+18,18-25,Female,31.92,"Obese Class 1",0,No,North-East,2205.98,0-10K
+18,18-25,Female,36.85,"Obese Class 2",0,No,South-East,1629.83,0-10K
+21,18-25,Female,25.8,Overweight,0,No,South-West,2007.94,0-10K
+61,55+,Female,29.07,Overweight,0,Yes,North-West,29141.36,20K-30K
