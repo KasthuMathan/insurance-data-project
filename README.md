@@ -101,11 +101,11 @@ END;
 ## Data Visualization
 - After completing the EDA, the dataset was exported as CSV and converted to Excel (XLSX).
 - Created Pivot Tables to compare
--- Age Groups vs. Charges
--- Gender vs.Charges
--- Smoker Status vs.Charges
--- BMI Categories vs.Charges
--- Regions vs. Charges
+  - Age Groups vs. Charges
+  - Gender vs.Charges
+  - Smoker Status vs.Charges
+  - BMI Categories vs.Charges
+  - Regions vs. Charges
 - Used Bar Charts for better data comparison.
 - Designed a Dashboard for an easy-to-read summary.
 
